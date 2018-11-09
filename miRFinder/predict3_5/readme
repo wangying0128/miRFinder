@@ -1,0 +1,7 @@
+1.data:
+5_pre_miRNA_snp.txt,hsa-posi-3.txt,result3,hg1, hg2,hg3,hg4,hg5,hg6,hg7
+2.program:
+
+3.Execution steps：
+perl main.pl 5_pre_miRNA_snp.txt result1.txt result2.txt
+perl main1.pl result3.txt 
