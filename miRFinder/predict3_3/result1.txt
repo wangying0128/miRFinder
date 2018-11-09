@@ -1,0 +1,577 @@
+>hsa-mir-601
+the 3'end position of 3'arm mature miRNA  is  72 : CCCAGGGAUCCUGAAGUCCUUU
+the 3'end position of 3'arm mature miRNA  is  75 : AGGGAUCCUGAAGUCCUUUGGG
+the 3'end position of 3'arm mature miRNA  is  71 : CCCCAGGGAUCCUGAAGUCCUU
+the 3'end position of 3'arm mature miRNA  is  79 : AUCCUGAAGUCCUUUGGGUGGA
+the 3'end position of 3'arm mature miRNA  is  76 : GGGAUCCUGAAGUCCUUUGGGU
+>hsa-mir-3129
+the 3'end position of 3'arm mature miRNA  is  68 : AAACUAAUCUCUACACUGCUGC
+the 3'end position of 3'arm mature miRNA  is  66 : UCAAACUAAUCUCUACACUGCU
+the 3'end position of 3'arm mature miRNA  is  70 : ACUAAUCUCUACACUGCUGCCC
+the 3'end position of 3'arm mature miRNA  is  72 : UAAUCUCUACACUGCUGCCCAA
+the 3'end position of 3'arm mature miRNA  is  67 : CAAACUAAUCUCUACACUGCUG
+>hsa-mir-4486
+the 3'end position of 3'arm mature miRNA  is  57 : UAGAUGCUUGCUCUUGCCAUUG
+the 3'end position of 3'arm mature miRNA  is  59 : GAUGCUUGCUCUUGCCAUUGCA
+the 3'end position of 3'arm mature miRNA  is  62 : GCUUGCUCUUGCCAUUGCAAUG
+the 3'end position of 3'arm mature miRNA  is  60 : AUGCUUGCUCUUGCCAUUGCAA
+>hsa-mir-3677
+the 3'end position of 3'arm mature miRNA  is  58 : UUCUCGUGGGCUCUGGCCACGG
+the 3'end position of 3'arm mature miRNA  is  52 : AUGGGCUUCUCGUGGGCUCUGG
+the 3'end position of 3'arm mature miRNA  is  55 : GGCUUCUCGUGGGCUCUGGCCA
+the 3'end position of 3'arm mature miRNA  is  54 : GGGCUUCUCGUGGGCUCUGGCC
+the 3'end position of 3'arm mature miRNA  is  53 : UGGGCUUCUCGUGGGCUCUGGC
+>hsa-mir-8080
+the 3'end position of 3'arm mature miRNA  is  80 : GGAAGACACUUAUGUCCUGGAU
+the 3'end position of 3'arm mature miRNA  is  77 : UUUGGAAGACACUUAUGUCCUG
+the 3'end position of 3'arm mature miRNA  is  78 : UUGGAAGACACUUAUGUCCUGG
+the 3'end position of 3'arm mature miRNA  is  75 : GGUUUGGAAGACACUUAUGUCC
+the 3'end position of 3'arm mature miRNA  is  71 : GGGAGGUUUGGAAGACACUUAU
+>hsa-mir-3183
+the 3'end position of 3'arm mature miRNA  is  76 : CGGCGCCUCCUCGAGGGAGGAG
+the 3'end position of 3'arm mature miRNA  is  77 : GGCGCCUCCUCGAGGGAGGAGA
+the 3'end position of 3'arm mature miRNA  is  74 : UCCGGCGCCUCCUCGAGGGAGG
+the 3'end position of 3'arm mature miRNA  is  70 : AUCCUCCGGCGCCUCCUCGAGG
+the 3'end position of 3'arm mature miRNA  is  72 : CCUCCGGCGCCUCCUCGAGGGA
+>hsa-mir-211
+the 3'end position of 3'arm mature miRNA  is  81 : AGGGCAGGGACAGCAAAGGGGU
+the 3'end position of 3'arm mature miRNA  is  79 : GCAGGGCAGGGACAGCAAAGGG
+the 3'end position of 3'arm mature miRNA  is  96 : AAGGGGUGCUCAGUUGUCACUU
+the 3'end position of 3'arm mature miRNA  is  91 : CAGCAAAGGGGUGCUCAGUUGU
+the 3'end position of 3'arm mature miRNA  is  86 : AGGGACAGCAAAGGGGUGCUCA
+>hsa-mir-5691
+the 3'end position of 3'arm mature miRNA  is  61 : GCUGCUUGGUGUUCAGAGCUUG
+the 3'end position of 3'arm mature miRNA  is  60 : AGCUGCUUGGUGUUCAGAGCUU
+the 3'end position of 3'arm mature miRNA  is  64 : GCUUGGUGUUCAGAGCUUGUCU
+the 3'end position of 3'arm mature miRNA  is  66 : UUGGUGUUCAGAGCUUGUCUGU
+the 3'end position of 3'arm mature miRNA  is  62 : CUGCUUGGUGUUCAGAGCUUGU
+>hsa-mir-548e
+the 3'end position of 3'arm mature miRNA  is  71 : GGCAAAAACUGAGACUACUUUU
+the 3'end position of 3'arm mature miRNA  is  75 : AAAACUGAGACUACUUUUGCAC
+the 3'end position of 3'arm mature miRNA  is  72 : GCAAAAACUGAGACUACUUUUG
+the 3'end position of 3'arm mature miRNA  is  77 : AACUGAGACUACUUUUGCACCA
+the 3'end position of 3'arm mature miRNA  is  73 : CAAAAACUGAGACUACUUUUGC
+>hsa-mir-4426
+the 3'end position of 3'arm mature miRNA  is  62 : AAAGGAGUCUACUCUUCAUCUU
+>hsa-mir-4707
+the 3'end position of 3'arm mature miRNA  is  70 : GCCAGCCCGCCCCAGCCGAGGU
+the 3'end position of 3'arm mature miRNA  is  71 : CCAGCCCGCCCCAGCCGAGGUU
+the 3'end position of 3'arm mature miRNA  is  79 : CCCCAGCCGAGGUUCUCGGCAC
+the 3'end position of 3'arm mature miRNA  is  74 : GCCCGCCCCAGCCGAGGUUCUC
+the 3'end position of 3'arm mature miRNA  is  72 : CAGCCCGCCCCAGCCGAGGUUC
+>hsa-mir-8086
+the 3'end position of 3'arm mature miRNA  is  81 : UCUGGCUCUGUUGCCCAGGCUG
+the 3'end position of 3'arm mature miRNA  is  82 : CUGGCUCUGUUGCCCAGGCUGG
+the 3'end position of 3'arm mature miRNA  is  75 : AUGGAGUCUGGCUCUGUUGCCC
+the 3'end position of 3'arm mature miRNA  is  74 : GAUGGAGUCUGGCUCUGUUGCC
+>hsa-mir-654
+the 3'end position of 3'arm mature miRNA  is  68 : GCCAUAUGUCUGCUGACCAUCA
+the 3'end position of 3'arm mature miRNA  is  73 : AUGUCUGCUGACCAUCACCUUU
+the 3'end position of 3'arm mature miRNA  is  72 : UAUGUCUGCUGACCAUCACCUU
+the 3'end position of 3'arm mature miRNA  is  71 : AUAUGUCUGCUGACCAUCACCU
+the 3'end position of 3'arm mature miRNA  is  70 : CAUAUGUCUGCUGACCAUCACC
+>hsa-mir-4529
+the 3'end position of 3'arm mature miRNA  is  68 : UUCAUUGGACUGCUGAUGGCCC
+the 3'end position of 3'arm mature miRNA  is  66 : UCUUCAUUGGACUGCUGAUGGC
+the 3'end position of 3'arm mature miRNA  is  67 : CUUCAUUGGACUGCUGAUGGCC
+the 3'end position of 3'arm mature miRNA  is  71 : AUUGGACUGCUGAUGGCCCGUC
+the 3'end position of 3'arm mature miRNA  is  69 : UCAUUGGACUGCUGAUGGCCCG
+>hsa-mir-6068
+the 3'end position of 3'arm mature miRNA  is  56 : GUCACGCUGCUGGCGCAGGCUC
+the 3'end position of 3'arm mature miRNA  is  59 : ACGCUGCUGGCGCAGGCUCGGC
+the 3'end position of 3'arm mature miRNA  is  57 : UCACGCUGCUGGCGCAGGCUCG
+the 3'end position of 3'arm mature miRNA  is  58 : CACGCUGCUGGCGCAGGCUCGG
+the 3'end position of 3'arm mature miRNA  is  60 : CGCUGCUGGCGCAGGCUCGGCC
+>hsa-mir-629
+the 3'end position of 3'arm mature miRNA  is  79 : GAGGUUCUCCCAACGUAAGCCC
+the 3'end position of 3'arm mature miRNA  is  80 : AGGUUCUCCCAACGUAAGCCCA
+the 3'end position of 3'arm mature miRNA  is  77 : AGGAGGUUCUCCCAACGUAAGC
+the 3'end position of 3'arm mature miRNA  is  78 : GGAGGUUCUCCCAACGUAAGCC
+the 3'end position of 3'arm mature miRNA  is  84 : UCUCCCAACGUAAGCCCAGCCC
+>hsa-mir-140
+the 3'end position of 3'arm mature miRNA  is  81 : UCUACCACAGGGUAGAACCACG
+the 3'end position of 3'arm mature miRNA  is  80 : UUCUACCACAGGGUAGAACCAC
+the 3'end position of 3'arm mature miRNA  is  83 : UACCACAGGGUAGAACCACGGA
+the 3'end position of 3'arm mature miRNA  is  92 : GUAGAACCACGGACAGGAUACC
+the 3'end position of 3'arm mature miRNA  is  79 : GUUCUACCACAGGGUAGAACCA
+>hsa-mir-335
+the 3'end position of 3'arm mature miRNA  is  71 : CGUUUUUCAUUAUUGCUCCUGA
+the 3'end position of 3'arm mature miRNA  is  77 : UCAUUAUUGCUCCUGACCUCCU
+the 3'end position of 3'arm mature miRNA  is  76 : UUCAUUAUUGCUCCUGACCUCC
+the 3'end position of 3'arm mature miRNA  is  73 : UUUUUCAUUAUUGCUCCUGACC
+the 3'end position of 3'arm mature miRNA  is  74 : UUUUCAUUAUUGCUCCUGACCU
+>hsa-mir-1911
+the 3'end position of 3'arm mature miRNA  is  68 : CCCACCAGGCAUUGUGGUCUCC
+the 3'end position of 3'arm mature miRNA  is  66 : CUCCCACCAGGCAUUGUGGUCU
+the 3'end position of 3'arm mature miRNA  is  73 : CAGGCAUUGUGGUCUCCGCUGA
+the 3'end position of 3'arm mature miRNA  is  67 : UCCCACCAGGCAUUGUGGUCUC
+the 3'end position of 3'arm mature miRNA  is  65 : UCUCCCACCAGGCAUUGUGGUC
+>hsa-mir-3064
+the 3'end position of 3'arm mature miRNA  is  63 : UUUGCCACACUGCAACACCUUA
+the 3'end position of 3'arm mature miRNA  is  58 : GCUAUUUUGCCACACUGCAACA
+the 3'end position of 3'arm mature miRNA  is  59 : CUAUUUUGCCACACUGCAACAC
+the 3'end position of 3'arm mature miRNA  is  62 : UUUUGCCACACUGCAACACCUU
+the 3'end position of 3'arm mature miRNA  is  61 : AUUUUGCCACACUGCAACACCU
+>hsa-mir-608
+the 3'end position of 3'arm mature miRNA  is  98 : GCCUCUUGGUGCAGCACAGGUA
+the 3'end position of 3'arm mature miRNA  is  91 : AAAGGCUGCCUCUUGGUGCAGC
+the 3'end position of 3'arm mature miRNA  is  92 : AAGGCUGCCUCUUGGUGCAGCA
+the 3'end position of 3'arm mature miRNA  is  83 : CUUCCAUCAAAGGCUGCCUCUU
+the 3'end position of 3'arm mature miRNA  is  99 : CCUCUUGGUGCAGCACAGGUAG
+>hsa-mir-154
+the 3'end position of 3'arm mature miRNA  is  70 : CGAAUCAUACACGGUUGACCUA
+the 3'end position of 3'arm mature miRNA  is  75 : CAUACACGGUUGACCUAUUUUU
+the 3'end position of 3'arm mature miRNA  is  83 : GUUGACCUAUUUUUCAGUACCA
+the 3'end position of 3'arm mature miRNA  is  73 : AUCAUACACGGUUGACCUAUUU
+the 3'end position of 3'arm mature miRNA  is  74 : UCAUACACGGUUGACCUAUUUU
+>hsa-mir-3169
+the 3'end position of 3'arm mature miRNA  is  73 : UGUGUGCCAAGCAUAGUCCUGU
+the 3'end position of 3'arm mature miRNA  is  76 : GUGCCAAGCAUAGUCCUGUGUU
+the 3'end position of 3'arm mature miRNA  is  75 : UGUGCCAAGCAUAGUCCUGUGU
+the 3'end position of 3'arm mature miRNA  is  77 : UGCCAAGCAUAGUCCUGUGUUU
+the 3'end position of 3'arm mature miRNA  is  72 : CUGUGUGCCAAGCAUAGUCCUG
+>hsa-mir-4524b
+the 3'end position of 3'arm mature miRNA  is  86 : UGAGACAGGUUCAUGCUGCUAU
+the 3'end position of 3'arm mature miRNA  is  84 : AGUGAGACAGGUUCAUGCUGCU
+the 3'end position of 3'arm mature miRNA  is  85 : GUGAGACAGGUUCAUGCUGCUA
+the 3'end position of 3'arm mature miRNA  is  94 : GUUCAUGCUGCUAUCGUUCCAA
+the 3'end position of 3'arm mature miRNA  is  93 : GGUUCAUGCUGCUAUCGUUCCA
+>hsa-mir-18a
+the 3'end position of 3'arm mature miRNA  is  66 : CUACUGCCCUAAGUGCUCCUUC
+the 3'end position of 3'arm mature miRNA  is  65 : UCUACUGCCCUAAGUGCUCCUU
+the 3'end position of 3'arm mature miRNA  is  67 : UACUGCCCUAAGUGCUCCUUCU
+the 3'end position of 3'arm mature miRNA  is  70 : UGCCCUAAGUGCUCCUUCUGGC
+the 3'end position of 3'arm mature miRNA  is  64 : AUCUACUGCCCUAAGUGCUCCU
+>hsa-mir-6500
+the 3'end position of 3'arm mature miRNA  is  73 : UGGACACUUGUUGGGAUGACCU
+the 3'end position of 3'arm mature miRNA  is  70 : AGCUGGACACUUGUUGGGAUGA
+the 3'end position of 3'arm mature miRNA  is  84 : UGGGAUGACCUGCCUGCAGGUA
+the 3'end position of 3'arm mature miRNA  is  77 : CACUUGUUGGGAUGACCUGCCU
+>hsa-mir-2116
+the 3'end position of 3'arm mature miRNA  is  72 : CCUCCCAUGCCAAGAACUCCCA
+the 3'end position of 3'arm mature miRNA  is  74 : UCCCAUGCCAAGAACUCCCAGA
+the 3'end position of 3'arm mature miRNA  is  70 : GUCCUCCCAUGCCAAGAACUCC
+the 3'end position of 3'arm mature miRNA  is  77 : CAUGCCAAGAACUCCCAGACUA
+the 3'end position of 3'arm mature miRNA  is  73 : CUCCCAUGCCAAGAACUCCCAG
+>hsa-mir-3927
+the 3'end position of 3'arm mature miRNA  is  64 : GGCAGGUAGAUAUUUGAUAGGC
+the 3'end position of 3'arm mature miRNA  is  70 : UAGAUAUUUGAUAGGCAUUGGC
+the 3'end position of 3'arm mature miRNA  is  61 : CAUGGCAGGUAGAUAUUUGAUA
+the 3'end position of 3'arm mature miRNA  is  65 : GCAGGUAGAUAUUUGAUAGGCA
+the 3'end position of 3'arm mature miRNA  is  62 : AUGGCAGGUAGAUAUUUGAUAG
+>hsa-mir-4766
+the 3'end position of 3'arm mature miRNA  is  66 : AAUAGCAAUUGCUCUUUUGGAA
+the 3'end position of 3'arm mature miRNA  is  71 : CAAUUGCUCUUUUGGAAGGAAC
+the 3'end position of 3'arm mature miRNA  is  68 : UAGCAAUUGCUCUUUUGGAAGG
+the 3'end position of 3'arm mature miRNA  is  72 : AAUUGCUCUUUUGGAAGGAACU
+the 3'end position of 3'arm mature miRNA  is  69 : AGCAAUUGCUCUUUUGGAAGGA
+>hsa-mir-4289
+the 3'end position of 3'arm mature miRNA  is  62 : GGGCCCUGUCUGCAGAGCCUAA
+the 3'end position of 3'arm mature miRNA  is  60 : CUGGGCCCUGUCUGCAGAGCCU
+the 3'end position of 3'arm mature miRNA  is  68 : UGUCUGCAGAGCCUAAACAGAU
+the 3'end position of 3'arm mature miRNA  is  61 : UGGGCCCUGUCUGCAGAGCCUA
+the 3'end position of 3'arm mature miRNA  is  66 : CCUGUCUGCAGAGCCUAAACAG
+>hsa-mir-3144
+the 3'end position of 3'arm mature miRNA  is  71 : AUACCUGUUCGGUCUCUUUAAA
+the 3'end position of 3'arm mature miRNA  is  78 : UUCGGUCUCUUUAAAGUGUAGU
+the 3'end position of 3'arm mature miRNA  is  76 : UGUUCGGUCUCUUUAAAGUGUA
+the 3'end position of 3'arm mature miRNA  is  70 : UAUACCUGUUCGGUCUCUUUAA
+the 3'end position of 3'arm mature miRNA  is  74 : CCUGUUCGGUCUCUUUAAAGUG
+>hsa-mir-4708
+the 3'end position of 3'arm mature miRNA  is  66 : GGCGGCAUCUCUCUGAUACUAA
+the 3'end position of 3'arm mature miRNA  is  65 : AGGCGGCAUCUCUCUGAUACUA
+the 3'end position of 3'arm mature miRNA  is  61 : AGCAAGGCGGCAUCUCUCUGAU
+the 3'end position of 3'arm mature miRNA  is  66 : GGCGGCAUCUCUCUGAUACUAA
+the 3'end position of 3'arm mature miRNA  is  60 : GAGCAAGGCGGCAUCUCUCUGA
+>hsa-mir-4634
+the 3'end position of 3'arm mature miRNA  is  51 : UCUUGGGCGGCCGCGUUUCCCC
+the 3'end position of 3'arm mature miRNA  is  53 : UUGGGCGGCCGCGUUUCCCCUC
+the 3'end position of 3'arm mature miRNA  is  52 : CUUGGGCGGCCGCGUUUCCCCU
+the 3'end position of 3'arm mature miRNA  is  53 : UUGGGCGGCCGCGUUUCCCCUC
+>hsa-mir-3650
+the 3'end position of 3'arm mature miRNA  is  58 : GGGCUCUGUCUGGCACAUUUCU
+the 3'end position of 3'arm mature miRNA  is  59 : GGCUCUGUCUGGCACAUUUCUG
+the 3'end position of 3'arm mature miRNA  is  56 : AGGGGCUCUGUCUGGCACAUUU
+the 3'end position of 3'arm mature miRNA  is  57 : GGGGCUCUGUCUGGCACAUUUC
+the 3'end position of 3'arm mature miRNA  is  55 : CAGGGGCUCUGUCUGGCACAUU
+>hsa-mir-3180-2
+the 3'end position of 3'arm mature miRNA  is  77 : CGUGGGGCGGAGCUUCCGGAGG
+the 3'end position of 3'arm mature miRNA  is  75 : AGCGUGGGGCGGAGCUUCCGGA
+the 3'end position of 3'arm mature miRNA  is  88 : GCUUCCGGAGGCCCCGCCCUGC
+the 3'end position of 3'arm mature miRNA  is  71 : GGAAAGCGUGGGGCGGAGCUUC
+the 3'end position of 3'arm mature miRNA  is  69 : CGGGAAAGCGUGGGGCGGAGCU
+>hsa-mir-4650-1
+the 3'end position of 3'arm mature miRNA  is  73 : AAUGAGGCCUGACAUAUCUGCA
+the 3'end position of 3'arm mature miRNA  is  68 : GGUAGAAUGAGGCCUGACAUAU
+the 3'end position of 3'arm mature miRNA  is  75 : UGAGGCCUGACAUAUCUGCAGG
+the 3'end position of 3'arm mature miRNA  is  69 : GUAGAAUGAGGCCUGACAUAUC
+the 3'end position of 3'arm mature miRNA  is  71 : AGAAUGAGGCCUGACAUAUCUG
+>hsa-mir-4713
+the 3'end position of 3'arm mature miRNA  is  66 : GGGAUCCAGACAGUGGGAGAAA
+the 3'end position of 3'arm mature miRNA  is  68 : GAUCCAGACAGUGGGAGAAAAA
+the 3'end position of 3'arm mature miRNA  is  67 : GGAUCCAGACAGUGGGAGAAAA
+the 3'end position of 3'arm mature miRNA  is  74 : GACAGUGGGAGAAAAAUGGGGA
+the 3'end position of 3'arm mature miRNA  is  71 : CCAGACAGUGGGAGAAAAAUGG
+>hsa-mir-3661
+the 3'end position of 3'arm mature miRNA  is  85 : GAUCCACUGGUCCAGCUCCUUG
+the 3'end position of 3'arm mature miRNA  is  74 : UUCAGCUGCUCGAUCCACUGGU
+the 3'end position of 3'arm mature miRNA  is  76 : CAGCUGCUCGAUCCACUGGUCC
+the 3'end position of 3'arm mature miRNA  is  79 : CUGCUCGAUCCACUGGUCCAGC
+the 3'end position of 3'arm mature miRNA  is  75 : UCAGCUGCUCGAUCCACUGGUC
+>hsa-mir-6507
+the 3'end position of 3'arm mature miRNA  is  65 : UGCAAAGUCCUUCCUAUUUUUC
+the 3'end position of 3'arm mature miRNA  is  64 : AUGCAAAGUCCUUCCUAUUUUU
+the 3'end position of 3'arm mature miRNA  is  63 : CAUGCAAAGUCCUUCCUAUUUU
+the 3'end position of 3'arm mature miRNA  is  67 : CAAAGUCCUUCCUAUUUUUCCC
+the 3'end position of 3'arm mature miRNA  is  66 : GCAAAGUCCUUCCUAUUUUUCC
+>hsa-mir-1294
+the 3'end position of 3'arm mature miRNA  is  109 : AACAGUGCCAACCUCACAGGAC
+the 3'end position of 3'arm mature miRNA  is  108 : CAACAGUGCCAACCUCACAGGA
+the 3'end position of 3'arm mature miRNA  is  104 : UAUACAACAGUGCCAACCUCAC
+the 3'end position of 3'arm mature miRNA  is  105 : AUACAACAGUGCCAACCUCACA
+the 3'end position of 3'arm mature miRNA  is  106 : UACAACAGUGCCAACCUCACAG
+>hsa-mir-4523
+the 3'end position of 3'arm mature miRNA  is  64 : GGCCGAGGCCCGGGCCGGUUCC
+the 3'end position of 3'arm mature miRNA  is  66 : CCGAGGCCCGGGCCGGUUCCCC
+the 3'end position of 3'arm mature miRNA  is  65 : GCCGAGGCCCGGGCCGGUUCCC
+the 3'end position of 3'arm mature miRNA  is  62 : GCGGCCGAGGCCCGGGCCGGUU
+the 3'end position of 3'arm mature miRNA  is  67 : CGAGGCCCGGGCCGGUUCCCCC
+>hsa-mir-769
+the 3'end position of 3'arm mature miRNA  is  88 : AGCUGGGAUCUCCGGGGUCUUG
+the 3'end position of 3'arm mature miRNA  is  86 : CGAGCUGGGAUCUCCGGGGUCU
+the 3'end position of 3'arm mature miRNA  is  91 : UGGGAUCUCCGGGGUCUUGGUU
+the 3'end position of 3'arm mature miRNA  is  95 : AUCUCCGGGGUCUUGGUUCAGG
+the 3'end position of 3'arm mature miRNA  is  115 : GGGCCGGGGCCUCUGGGUUCCA
+>hsa-mir-6506
+the 3'end position of 3'arm mature miRNA  is  63 : CAUCGUAUCAGAGAUUCCAGAC
+the 3'end position of 3'arm mature miRNA  is  59 : UUGACAUCGUAUCAGAGAUUCC
+the 3'end position of 3'arm mature miRNA  is  58 : AUUGACAUCGUAUCAGAGAUUC
+the 3'end position of 3'arm mature miRNA  is  60 : UGACAUCGUAUCAGAGAUUCCA
+the 3'end position of 3'arm mature miRNA  is  57 : GAUUGACAUCGUAUCAGAGAUU
+>hsa-mir-4488
+the 3'end position of 3'arm mature miRNA  is  58 : GGUGGCGCCUUGGCCCCGCCCC
+the 3'end position of 3'arm mature miRNA  is  61 : GGCGCCUUGGCCCCGCCCCGCC
+>hsa-mir-3150a
+the 3'end position of 3'arm mature miRNA  is  69 : GCUGGGGAGAUCCUCGAGGUUG
+the 3'end position of 3'arm mature miRNA  is  67 : AGGCUGGGGAGAUCCUCGAGGU
+the 3'end position of 3'arm mature miRNA  is  68 : GGCUGGGGAGAUCCUCGAGGUU
+the 3'end position of 3'arm mature miRNA  is  79 : UCCUCGAGGUUGGCCUGCUUUC
+the 3'end position of 3'arm mature miRNA  is  72 : GGGGAGAUCCUCGAGGUUGGCC
+>hsa-mir-1185-1
+the 3'end position of 3'arm mature miRNA  is  71 : CGAAUAUACAGGGGGAGACUCU
+the 3'end position of 3'arm mature miRNA  is  85 : GAGACUCUUAUUUGCGUAUCAA
+the 3'end position of 3'arm mature miRNA  is  76 : AUACAGGGGGAGACUCUUAUUU
+the 3'end position of 3'arm mature miRNA  is  84 : GGAGACUCUUAUUUGCGUAUCA
+the 3'end position of 3'arm mature miRNA  is  74 : AUAUACAGGGGGAGACUCUUAU
+>hsa-mir-6512
+the 3'end position of 3'arm mature miRNA  is  70 : UCUUCCAGCCCUUCUAAUGGUA
+the 3'end position of 3'arm mature miRNA  is  73 : UCCAGCCCUUCUAAUGGUAGGA
+the 3'end position of 3'arm mature miRNA  is  69 : UUCUUCCAGCCCUUCUAAUGGU
+the 3'end position of 3'arm mature miRNA  is  74 : CCAGCCCUUCUAAUGGUAGGAG
+the 3'end position of 3'arm mature miRNA  is  71 : CUUCCAGCCCUUCUAAUGGUAG
+>hsa-mir-3974
+the 3'end position of 3'arm mature miRNA  is  79 : ACAAAUUUGACUACAGCCUUUC
+the 3'end position of 3'arm mature miRNA  is  80 : CAAAUUUGACUACAGCCUUUCC
+the 3'end position of 3'arm mature miRNA  is  78 : GACAAAUUUGACUACAGCCUUU
+the 3'end position of 3'arm mature miRNA  is  72 : AACUAUGACAAAUUUGACUACA
+the 3'end position of 3'arm mature miRNA  is  81 : AAAUUUGACUACAGCCUUUCCG
+>hsa-mir-1229
+the 3'end position of 3'arm mature miRNA  is  67 : CCUCUCACCACUGCCCUCCCAC
+the 3'end position of 3'arm mature miRNA  is  68 : CUCUCACCACUGCCCUCCCACA
+the 3'end position of 3'arm mature miRNA  is  62 : GACACCCUCUCACCACUGCCCU
+the 3'end position of 3'arm mature miRNA  is  66 : CCCUCUCACCACUGCCCUCCCA
+the 3'end position of 3'arm mature miRNA  is  62 : GACACCCUCUCACCACUGCCCU
+>hsa-mir-1255b-1
+the 3'end position of 3'arm mature miRNA  is  59 : UCUACUCUUUGUGAAGAUGCUG
+the 3'end position of 3'arm mature miRNA  is  60 : CUACUCUUUGUGAAGAUGCUGU
+the 3'end position of 3'arm mature miRNA  is  62 : ACUCUUUGUGAAGAUGCUGUGA
+the 3'end position of 3'arm mature miRNA  is  61 : UACUCUUUGUGAAGAUGCUGUG
+the 3'end position of 3'arm mature miRNA  is  62 : ACUCUUUGUGAAGAUGCUGUGA
+>hsa-mir-3143
+the 3'end position of 3'arm mature miRNA  is  59 : UGGAGCAACUCUUUACAAUGUU
+the 3'end position of 3'arm mature miRNA  is  62 : AGCAACUCUUUACAAUGUUUCU
+the 3'end position of 3'arm mature miRNA  is  59 : UGGAGCAACUCUUUACAAUGUU
+the 3'end position of 3'arm mature miRNA  is  62 : AGCAACUCUUUACAAUGUUUCU
+the 3'end position of 3'arm mature miRNA  is  57 : GCUGGAGCAACUCUUUACAAUG
+>hsa-mir-126
+the 3'end position of 3'arm mature miRNA  is  71 : ACUCGUACCGUGAGUAAUAAUG
+the 3'end position of 3'arm mature miRNA  is  68 : CAAACUCGUACCGUGAGUAAUA
+the 3'end position of 3'arm mature miRNA  is  70 : AACUCGUACCGUGAGUAAUAAU
+the 3'end position of 3'arm mature miRNA  is  69 : AAACUCGUACCGUGAGUAAUAA
+>hsa-mir-6511a-2
+the 3'end position of 3'arm mature miRNA  is  64 : CCCUCACCAUCCCUUCUGCCUG
+the 3'end position of 3'arm mature miRNA  is  63 : CCCCUCACCAUCCCUUCUGCCU
+the 3'end position of 3'arm mature miRNA  is  66 : CUCACCAUCCCUUCUGCCUGCA
+the 3'end position of 3'arm mature miRNA  is  67 : UCACCAUCCCUUCUGCCUGCAG
+the 3'end position of 3'arm mature miRNA  is  65 : CCUCACCAUCCCUUCUGCCUGC
+>hsa-mir-514a-1
+the 3'end position of 3'arm mature miRNA  is  77 : UUGAUUGACACUUCUGUGAGUA
+the 3'end position of 3'arm mature miRNA  is  87 : CUUCUGUGAGUAGAGUAACGCA
+the 3'end position of 3'arm mature miRNA  is  81 : UUGACACUUCUGUGAGUAGAGU
+the 3'end position of 3'arm mature miRNA  is  85 : CACUUCUGUGAGUAGAGUAACG
+the 3'end position of 3'arm mature miRNA  is  78 : UGAUUGACACUUCUGUGAGUAG
+>hsa-mir-20b
+the 3'end position of 3'arm mature miRNA  is  63 : CUACUGUAGUAUGGGCACUUCC
+the 3'end position of 3'arm mature miRNA  is  67 : UGUAGUAUGGGCACUUCCAGUA
+the 3'end position of 3'arm mature miRNA  is  61 : CUCUACUGUAGUAUGGGCACUU
+the 3'end position of 3'arm mature miRNA  is  64 : UACUGUAGUAUGGGCACUUCCA
+the 3'end position of 3'arm mature miRNA  is  65 : ACUGUAGUAUGGGCACUUCCAG
+>hsa-mir-581
+the 3'end position of 3'arm mature miRNA  is  74 : UGUGAUCUAAAGAACACAAAGA
+the 3'end position of 3'arm mature miRNA  is  86 : AACACAAAGAAUACCUACACAG
+the 3'end position of 3'arm mature miRNA  is  76 : UGAUCUAAAGAACACAAAGAAU
+the 3'end position of 3'arm mature miRNA  is  77 : GAUCUAAAGAACACAAAGAAUA
+the 3'end position of 3'arm mature miRNA  is  80 : CUAAAGAACACAAAGAAUACCU
+>hsa-mir-4697
+the 3'end position of 3'arm mature miRNA  is  73 : AUGUCAGUGACUCCUGCCCCUU
+>hsa-mir-887
+the 3'end position of 3'arm mature miRNA  is  69 : GUGAACGGGCGCCAUCCCGAGG
+the 3'end position of 3'arm mature miRNA  is  71 : GAACGGGCGCCAUCCCGAGGCU
+the 3'end position of 3'arm mature miRNA  is  78 : CGCCAUCCCGAGGCUUUGCACA
+the 3'end position of 3'arm mature miRNA  is  68 : AGUGAACGGGCGCCAUCCCGAG
+the 3'end position of 3'arm mature miRNA  is  67 : GAGUGAACGGGCGCCAUCCCGA
+>hsa-mir-758
+the 3'end position of 3'arm mature miRNA  is  79 : ACCUGGUCCACUAACCCUCAGU
+the 3'end position of 3'arm mature miRNA  is  81 : CUGGUCCACUAACCCUCAGUAU
+the 3'end position of 3'arm mature miRNA  is  77 : UGACCUGGUCCACUAACCCUCA
+the 3'end position of 3'arm mature miRNA  is  72 : GUUUGUGACCUGGUCCACUAAC
+the 3'end position of 3'arm mature miRNA  is  87 : CACUAACCCUCAGUAUCUAAUG
+>hsa-mir-1304
+the 3'end position of 3'arm mature miRNA  is  79 : CUGUAGCCUCGAACCCCUGGGC
+the 3'end position of 3'arm mature miRNA  is  83 : AGCCUCGAACCCCUGGGCUCAA
+the 3'end position of 3'arm mature miRNA  is  74 : UCUCACUGUAGCCUCGAACCCC
+the 3'end position of 3'arm mature miRNA  is  89 : GAACCCCUGGGCUCAAGUGAUU
+the 3'end position of 3'arm mature miRNA  is  81 : GUAGCCUCGAACCCCUGGGCUC
+>hsa-mir-4264
+the 3'end position of 3'arm mature miRNA  is  61 : UGACAGGUACUGGGUAAGACUG
+the 3'end position of 3'arm mature miRNA  is  62 : GACAGGUACUGGGUAAGACUGC
+the 3'end position of 3'arm mature miRNA  is  58 : UAGUGACAGGUACUGGGUAAGA
+the 3'end position of 3'arm mature miRNA  is  59 : AGUGACAGGUACUGGGUAAGAC
+the 3'end position of 3'arm mature miRNA  is  63 : ACAGGUACUGGGUAAGACUGCA
+>hsa-mir-1179
+the 3'end position of 3'arm mature miRNA  is  73 : AACCAAUAAGAGGAUGCCAUUU
+the 3'end position of 3'arm mature miRNA  is  74 : ACCAAUAAGAGGAUGCCAUUUA
+the 3'end position of 3'arm mature miRNA  is  80 : AAGAGGAUGCCAUUUAUCCUUU
+the 3'end position of 3'arm mature miRNA  is  75 : CCAAUAAGAGGAUGCCAUUUAU
+the 3'end position of 3'arm mature miRNA  is  79 : UAAGAGGAUGCCAUUUAUCCUU
+>hsa-mir-2115
+the 3'end position of 3'arm mature miRNA  is  77 : UUCAUCAGAAUUCAUGGAGGCU
+the 3'end position of 3'arm mature miRNA  is  81 : UCAGAAUUCAUGGAGGCUAGAA
+the 3'end position of 3'arm mature miRNA  is  75 : AAUUCAUCAGAAUUCAUGGAGG
+the 3'end position of 3'arm mature miRNA  is  84 : GAAUUCAUGGAGGCUAGAAGCA
+the 3'end position of 3'arm mature miRNA  is  86 : AUUCAUGGAGGCUAGAAGCAGU
+>hsa-mir-4706
+the 3'end position of 3'arm mature miRNA  is  71 : GGAGCAGCCCACUCCUGUCCUG
+the 3'end position of 3'arm mature miRNA  is  76 : AGCCCACUCCUGUCCUGGGCUC
+the 3'end position of 3'arm mature miRNA  is  74 : GCAGCCCACUCCUGUCCUGGGC
+the 3'end position of 3'arm mature miRNA  is  73 : AGCAGCCCACUCCUGUCCUGGG
+the 3'end position of 3'arm mature miRNA  is  77 : GCCCACUCCUGUCCUGGGCUCU
+>hsa-mir-124-1
+the 3'end position of 3'arm mature miRNA  is  80 : ACGCGGUGAAUGCCAAGAAUGG
+the 3'end position of 3'arm mature miRNA  is  74 : UAAGGCACGCGGUGAAUGCCAA
+the 3'end position of 3'arm mature miRNA  is  84 : GGUGAAUGCCAAGAAUGGGGCU
+the 3'end position of 3'arm mature miRNA  is  79 : CACGCGGUGAAUGCCAAGAAUG
+the 3'end position of 3'arm mature miRNA  is  84 : GGUGAAUGCCAAGAAUGGGGCU
+>hsa-mir-4474
+the 3'end position of 3'arm mature miRNA  is  68 : GUGGCUGGUCAUGAGGCUAACA
+the 3'end position of 3'arm mature miRNA  is  69 : UGGCUGGUCAUGAGGCUAACAA
+the 3'end position of 3'arm mature miRNA  is  73 : UGGUCAUGAGGCUAACAAGGUA
+the 3'end position of 3'arm mature miRNA  is  72 : CUGGUCAUGAGGCUAACAAGGU
+the 3'end position of 3'arm mature miRNA  is  77 : CAUGAGGCUAACAAGGUAGGCA
+>hsa-mir-5701-1
+the 3'end position of 3'arm mature miRNA  is  74 : CCAAUCAGAACAUGAAAAUAAC
+the 3'end position of 3'arm mature miRNA  is  72 : AUCCAAUCAGAACAUGAAAAUA
+the 3'end position of 3'arm mature miRNA  is  77 : AUCAGAACAUGAAAAUAACGUC
+the 3'end position of 3'arm mature miRNA  is  68 : UCUGAUCCAAUCAGAACAUGAA
+the 3'end position of 3'arm mature miRNA  is  70 : UGAUCCAAUCAGAACAUGAAAA
+>hsa-mir-577
+the 3'end position of 3'arm mature miRNA  is  74 : GUUUCAAUACUUUAUCUGCUCU
+the 3'end position of 3'arm mature miRNA  is  75 : UUUCAAUACUUUAUCUGCUCUU
+the 3'end position of 3'arm mature miRNA  is  78 : CAAUACUUUAUCUGCUCUUCAU
+the 3'end position of 3'arm mature miRNA  is  77 : UCAAUACUUUAUCUGCUCUUCA
+the 3'end position of 3'arm mature miRNA  is  76 : UUCAAUACUUUAUCUGCUCUUC
+>hsa-mir-3658
+the 3'end position of 3'arm mature miRNA  is  51 : GCCUUUGAUUUUUUUUUUCUUU
+the 3'end position of 3'arm mature miRNA  is  52 : CCUUUGAUUUUUUUUUUCUUUU
+the 3'end position of 3'arm mature miRNA  is  55 : UUGAUUUUUUUUUUCUUUUUGU
+the 3'end position of 3'arm mature miRNA  is  53 : CUUUGAUUUUUUUUUUCUUUUU
+the 3'end position of 3'arm mature miRNA  is  54 : UUUGAUUUUUUUUUUCUUUUUG
+>hsa-mir-5187
+the 3'end position of 3'arm mature miRNA  is  69 : CUCCACUGAAUCCUCUUUUCCU
+the 3'end position of 3'arm mature miRNA  is  66 : UUUCUCCACUGAAUCCUCUUUU
+the 3'end position of 3'arm mature miRNA  is  76 : GAAUCCUCUUUUCCUCAGGUGG
+the 3'end position of 3'arm mature miRNA  is  74 : CUGAAUCCUCUUUUCCUCAGGU
+the 3'end position of 3'arm mature miRNA  is  73 : ACUGAAUCCUCUUUUCCUCAGG
+>hsa-mir-378d-2
+the 3'end position of 3'arm mature miRNA  is  86 : CUCUAAGUCCCAUUUCUGUUCC
+the 3'end position of 3'arm mature miRNA  is  82 : CCUGCUCUAAGUCCCAUUUCUG
+the 3'end position of 3'arm mature miRNA  is  85 : GCUCUAAGUCCCAUUUCUGUUC
+the 3'end position of 3'arm mature miRNA  is  77 : CAUUCCCUGCUCUAAGUCCCAU
+the 3'end position of 3'arm mature miRNA  is  92 : GUCCCAUUUCUGUUCCAUGAGA
+>hsa-mir-4704
+the 3'end position of 3'arm mature miRNA  is  67 : AUCAGUCACAUAUCUAGUGUCU
+the 3'end position of 3'arm mature miRNA  is  74 : ACAUAUCUAGUGUCUAGAAUGA
+the 3'end position of 3'arm mature miRNA  is  69 : CAGUCACAUAUCUAGUGUCUAG
+the 3'end position of 3'arm mature miRNA  is  73 : CACAUAUCUAGUGUCUAGAAUG
+the 3'end position of 3'arm mature miRNA  is  68 : UCAGUCACAUAUCUAGUGUCUA
+>hsa-mir-4283-2
+the 3'end position of 3'arm mature miRNA  is  65 : UCCAUGGUCAGGCUUGCCAGCC
+the 3'end position of 3'arm mature miRNA  is  64 : GUCCAUGGUCAGGCUUGCCAGC
+the 3'end position of 3'arm mature miRNA  is  72 : UCAGGCUUGCCAGCCUUGGUCC
+the 3'end position of 3'arm mature miRNA  is  66 : CCAUGGUCAGGCUUGCCAGCCU
+the 3'end position of 3'arm mature miRNA  is  68 : AUGGUCAGGCUUGCCAGCCUUG
+>hsa-mir-2467
+the 3'end position of 3'arm mature miRNA  is  71 : AGAGCAGAGGCAGAGAGGCUCA
+the 3'end position of 3'arm mature miRNA  is  79 : GGCAGAGAGGCUCAGGGUCUGU
+the 3'end position of 3'arm mature miRNA  is  73 : AGCAGAGGCAGAGAGGCUCAGG
+the 3'end position of 3'arm mature miRNA  is  69 : UUAGAGCAGAGGCAGAGAGGCU
+the 3'end position of 3'arm mature miRNA  is  74 : GCAGAGGCAGAGAGGCUCAGGG
+>hsa-mir-3690-1
+the 3'end position of 3'arm mature miRNA  is  70 : UAUCUACCUGGACCCAGUGUAG
+the 3'end position of 3'arm mature miRNA  is  68 : CAUAUCUACCUGGACCCAGUGU
+the 3'end position of 3'arm mature miRNA  is  69 : AUAUCUACCUGGACCCAGUGUA
+the 3'end position of 3'arm mature miRNA  is  67 : CCAUAUCUACCUGGACCCAGUG
+the 3'end position of 3'arm mature miRNA  is  66 : UCCAUAUCUACCUGGACCCAGU
+>hsa-mir-4647
+the 3'end position of 3'arm mature miRNA  is  65 : GAGCCCUGCCCAGCACCACCAC
+the 3'end position of 3'arm mature miRNA  is  69 : CCUGCCCAGCACCACCACCUCC
+the 3'end position of 3'arm mature miRNA  is  72 : GCCCAGCACCACCACCUCCUAU
+the 3'end position of 3'arm mature miRNA  is  70 : CUGCCCAGCACCACCACCUCCU
+the 3'end position of 3'arm mature miRNA  is  67 : GCCCUGCCCAGCACCACCACCU
+>hsa-mir-6511a-4
+the 3'end position of 3'arm mature miRNA  is  64 : CCCUCACCAUCCCUUCUGCCUG
+the 3'end position of 3'arm mature miRNA  is  63 : CCCCUCACCAUCCCUUCUGCCU
+the 3'end position of 3'arm mature miRNA  is  66 : CUCACCAUCCCUUCUGCCUGCA
+the 3'end position of 3'arm mature miRNA  is  67 : UCACCAUCCCUUCUGCCUGCAG
+the 3'end position of 3'arm mature miRNA  is  65 : CCUCACCAUCCCUUCUGCCUGC
+>hsa-mir-4516
+the 3'end position of 3'arm mature miRNA  is  70 : GGUCUGUGAGUCAGCCACGGCU
+the 3'end position of 3'arm mature miRNA  is  78 : AGUCAGCCACGGCUCUGCCCAC
+the 3'end position of 3'arm mature miRNA  is  77 : GAGUCAGCCACGGCUCUGCCCA
+the 3'end position of 3'arm mature miRNA  is  71 : GUCUGUGAGUCAGCCACGGCUC
+the 3'end position of 3'arm mature miRNA  is  83 : GCCACGGCUCUGCCCACGUCUC
+>hsa-mir-4715
+the 3'end position of 3'arm mature miRNA  is  70 : CCACCUUAACUGCAGCCAAUUC
+the 3'end position of 3'arm mature miRNA  is  71 : CACCUUAACUGCAGCCAAUUCU
+the 3'end position of 3'arm mature miRNA  is  73 : CCUUAACUGCAGCCAAUUCUAA
+the 3'end position of 3'arm mature miRNA  is  67 : GUGCCACCUUAACUGCAGCCAA
+the 3'end position of 3'arm mature miRNA  is  66 : GGUGCCACCUUAACUGCAGCCA
+>hsa-mir-647
+the 3'end position of 3'arm mature miRNA  is  78 : GGGGGCAGGAGGGAGGGUCAGG
+the 3'end position of 3'arm mature miRNA  is  74 : GGUCGGGGGCAGGAGGGAGGGU
+the 3'end position of 3'arm mature miRNA  is  77 : CGGGGGCAGGAGGGAGGGUCAG
+the 3'end position of 3'arm mature miRNA  is  75 : GUCGGGGGCAGGAGGGAGGGUC
+the 3'end position of 3'arm mature miRNA  is  72 : UUGGUCGGGGGCAGGAGGGAGG
+>hsa-mir-99a
+the 3'end position of 3'arm mature miRNA  is  69 : CACAAGCUCGCUUCUAUGGGUC
+the 3'end position of 3'arm mature miRNA  is  68 : GCACAAGCUCGCUUCUAUGGGU
+the 3'end position of 3'arm mature miRNA  is  72 : AAGCUCGCUUCUAUGGGUCUGU
+the 3'end position of 3'arm mature miRNA  is  70 : ACAAGCUCGCUUCUAUGGGUCU
+the 3'end position of 3'arm mature miRNA  is  76 : UCGCUUCUAUGGGUCUGUGUCA
+>hsa-mir-6515
+the 3'end position of 3'arm mature miRNA  is  57 : GAUCUCUUCAUCUACCCCCCAG
+the 3'end position of 3'arm mature miRNA  is  56 : UGAUCUCUUCAUCUACCCCCCA
+the 3'end position of 3'arm mature miRNA  is  57 : GAUCUCUUCAUCUACCCCCCAG
+the 3'end position of 3'arm mature miRNA  is  55 : CUGAUCUCUUCAUCUACCCCCC
+>hsa-mir-486
+the 3'end position of 3'arm mature miRNA  is  65 : CUCGGGGCAGCUCAGUACAGGA
+the 3'end position of 3'arm mature miRNA  is  66 : UCGGGGCAGCUCAGUACAGGAU
+the 3'end position of 3'arm mature miRNA  is  62 : CAGCUCGGGGCAGCUCAGUACA
+the 3'end position of 3'arm mature miRNA  is  67 : CGGGGCAGCUCAGUACAGGAUA
+the 3'end position of 3'arm mature miRNA  is  61 : CCAGCUCGGGGCAGCUCAGUAC
+>hsa-mir-4509-3
+the 3'end position of 3'arm mature miRNA  is  85 : CUGUAUCCUUUAUUUUGAGAUA
+the 3'end position of 3'arm mature miRNA  is  79 : AACCUUCUGUAUCCUUUAUUUU
+the 3'end position of 3'arm mature miRNA  is  88 : UAUCCUUUAUUUUGAGAUAGUA
+the 3'end position of 3'arm mature miRNA  is  86 : UGUAUCCUUUAUUUUGAGAUAG
+the 3'end position of 3'arm mature miRNA  is  83 : UUCUGUAUCCUUUAUUUUGAGA
+>hsa-mir-4748
+the 3'end position of 3'arm mature miRNA  is  65 : AAAGCAGACCCUACCCAACCCC
+the 3'end position of 3'arm mature miRNA  is  66 : AAGCAGACCCUACCCAACCCCA
+the 3'end position of 3'arm mature miRNA  is  67 : AGCAGACCCUACCCAACCCCAC
+the 3'end position of 3'arm mature miRNA  is  64 : GAAAGCAGACCCUACCCAACCC
+the 3'end position of 3'arm mature miRNA  is  63 : GGAAAGCAGACCCUACCCAACC
+>hsa-mir-522
+the 3'end position of 3'arm mature miRNA  is  72 : AAGAAAAUGGUUCCCUUUAGAG
+the 3'end position of 3'arm mature miRNA  is  77 : AAUGGUUCCCUUUAGAGUGUUA
+the 3'end position of 3'arm mature miRNA  is  73 : AGAAAAUGGUUCCCUUUAGAGU
+the 3'end position of 3'arm mature miRNA  is  70 : AAAAGAAAAUGGUUCCCUUUAG
+the 3'end position of 3'arm mature miRNA  is  71 : AAAGAAAAUGGUUCCCUUUAGA
+>hsa-mir-4749
+the 3'end position of 3'arm mature miRNA  is  60 : UGACGCCCCUCCUGCCCCCACA
+the 3'end position of 3'arm mature miRNA  is  61 : GACGCCCCUCCUGCCCCCACAG
+the 3'end position of 3'arm mature miRNA  is  58 : AGUGACGCCCCUCCUGCCCCCA
+the 3'end position of 3'arm mature miRNA  is  61 : GACGCCCCUCCUGCCCCCACAG
+the 3'end position of 3'arm mature miRNA  is  57 : CAGUGACGCCCCUCCUGCCCCC
+>hsa-mir-5698
+the 3'end position of 3'arm mature miRNA  is  62 : UCCCACAAUCACUGUACUCCCC
+the 3'end position of 3'arm mature miRNA  is  63 : CCCACAAUCACUGUACUCCCCA
+the 3'end position of 3'arm mature miRNA  is  64 : CCACAAUCACUGUACUCCCCAG
+the 3'end position of 3'arm mature miRNA  is  65 : CACAAUCACUGUACUCCCCAGG
+the 3'end position of 3'arm mature miRNA  is  71 : CACUGUACUCCCCAGGUGCACA
+>hsa-mir-548i-4
+the 3'end position of 3'arm mature miRNA  is  71 : AACCACAAAUAUUAUUGCACCA
+the 3'end position of 3'arm mature miRNA  is  68 : AAAAACCACAAAUAUUAUUGCA
+the 3'end position of 3'arm mature miRNA  is  75 : ACAAAUAUUAUUGCACCAACCU
+the 3'end position of 3'arm mature miRNA  is  73 : CCACAAAUAUUAUUGCACCAAC
+the 3'end position of 3'arm mature miRNA  is  67 : CAAAAACCACAAAUAUUAUUGC
+>hsa-mir-138-2
+the 3'end position of 3'arm mature miRNA  is  75 : CCGGCUAUUUCACGACACCAGG
+the 3'end position of 3'arm mature miRNA  is  70 : CUUACCCGGCUAUUUCACGACA
+the 3'end position of 3'arm mature miRNA  is  73 : ACCCGGCUAUUUCACGACACCA
+the 3'end position of 3'arm mature miRNA  is  74 : CCCGGCUAUUUCACGACACCAG
+the 3'end position of 3'arm mature miRNA  is  68 : CUCUUACCCGGCUAUUUCACGA
+>hsa-mir-4467
+the 3'end position of 3'arm mature miRNA  is  59 : AGCAGCCCCUGGGCCGCCGCCU
+the 3'end position of 3'arm mature miRNA  is  62 : AGCCCCUGGGCCGCCGCCUCCC
+the 3'end position of 3'arm mature miRNA  is  60 : GCAGCCCCUGGGCCGCCGCCUC
+the 3'end position of 3'arm mature miRNA  is  61 : CAGCCCCUGGGCCGCCGCCUCC
+>hsa-mir-8084
+the 3'end position of 3'arm mature miRNA  is  86 : GUAUUUUUUCUUAGGUUUAGUU
+the 3'end position of 3'arm mature miRNA  is  76 : UCGAUACUGAGUAUUUUUUCUU
+the 3'end position of 3'arm mature miRNA  is  75 : CUCGAUACUGAGUAUUUUUUCU
+the 3'end position of 3'arm mature miRNA  is  77 : CGAUACUGAGUAUUUUUUCUUA
+the 3'end position of 3'arm mature miRNA  is  79 : AUACUGAGUAUUUUUUCUUAGG
+>hsa-mir-4722
+the 3'end position of 3'arm mature miRNA  is  59 : GACCUGCCAGCACCUCCCUGCA
+the 3'end position of 3'arm mature miRNA  is  56 : CCUGACCUGCCAGCACCUCCCU
+the 3'end position of 3'arm mature miRNA  is  59 : GACCUGCCAGCACCUCCCUGCA
+the 3'end position of 3'arm mature miRNA  is  57 : CUGACCUGCCAGCACCUCCCUG
+the 3'end position of 3'arm mature miRNA  is  54 : GGCCUGACCUGCCAGCACCUCC
+>hsa-mir-4695
+the 3'end position of 3'arm mature miRNA  is  71 : CUGAUCUCACCGCUGCCUCCUU
+the 3'end position of 3'arm mature miRNA  is  67 : GGGCCUGAUCUCACCGCUGCCU
+the 3'end position of 3'arm mature miRNA  is  70 : CCUGAUCUCACCGCUGCCUCCU
+the 3'end position of 3'arm mature miRNA  is  63 : CCAUGGGCCUGAUCUCACCGCU
+the 3'end position of 3'arm mature miRNA  is  65 : AUGGGCCUGAUCUCACCGCUGC
+>hsa-mir-378a
+the 3'end position of 3'arm mature miRNA  is  62 : GCACUGGACUUGGAGUCAGAAG
+the 3'end position of 3'arm mature miRNA  is  65 : CUGGACUUGGAGUCAGAAGGCC
+the 3'end position of 3'arm mature miRNA  is  60 : UAGCACUGGACUUGGAGUCAGA
+the 3'end position of 3'arm mature miRNA  is  61 : AGCACUGGACUUGGAGUCAGAA
+the 3'end position of 3'arm mature miRNA  is  65 : CUGGACUUGGAGUCAGAAGGCC
+>hsa-mir-3125
+the 3'end position of 3'arm mature miRNA  is  67 : GUUCGAGAUCCCCGCCUUCCUC
+the 3'end position of 3'arm mature miRNA  is  77 : CCCGCCUUCCUCCUCCUUUCCU
+the 3'end position of 3'arm mature miRNA  is  68 : UUCGAGAUCCCCGCCUUCCUCC
+the 3'end position of 3'arm mature miRNA  is  74 : AUCCCCGCCUUCCUCCUCCUUU
+the 3'end position of 3'arm mature miRNA  is  69 : UCGAGAUCCCCGCCUUCCUCCU
+>hsa-mir-610
+the 3'end position of 3'arm mature miRNA  is  74 : GUCCCAGCACACAUUUAGCUCA
+the 3'end position of 3'arm mature miRNA  is  73 : UGUCCCAGCACACAUUUAGCUC
+the 3'end position of 3'arm mature miRNA  is  76 : CCCAGCACACAUUUAGCUCACA
+the 3'end position of 3'arm mature miRNA  is  78 : CAGCACACAUUUAGCUCACAUA
+the 3'end position of 3'arm mature miRNA  is  72 : AUGUCCCAGCACACAUUUAGCU
+>hsa-mir-1306
+the 3'end position of 3'arm mature miRNA  is  70 : UAAUGGACGUUGGCUCUGGUGG
+the 3'end position of 3'arm mature miRNA  is  71 : AAUGGACGUUGGCUCUGGUGGU
+the 3'end position of 3'arm mature miRNA  is  68 : GGUAAUGGACGUUGGCUCUGGU
+the 3'end position of 3'arm mature miRNA  is  77 : CGUUGGCUCUGGUGGUGAUGGA
+the 3'end position of 3'arm mature miRNA  is  69 : GUAAUGGACGUUGGCUCUGGUG
+>hsa-mir-3201
+the 3'end position of 3'arm mature miRNA  is  51 : UUGCCUCUUAUUUUUACAUGCC
+>hsa-mir-517b
+the 3'end position of 3'arm mature miRNA  is  66 : CGUGCAUCCCUUUAGAGUGUUA
+the 3'end position of 3'arm mature miRNA  is  65 : UCGUGCAUCCCUUUAGAGUGUU
+the 3'end position of 3'arm mature miRNA  is  66 : CGUGCAUCCCUUUAGAGUGUUA
+the 3'end position of 3'arm mature miRNA  is  64 : AUCGUGCAUCCCUUUAGAGUGU
