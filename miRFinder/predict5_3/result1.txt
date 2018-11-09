@@ -1,0 +1,595 @@
+>hsa-mir-601
+the 3'end position of 5'arm mature miRNA  is  40 : UCUAGGAUUGUUGGAGGAGUCA
+the 3'end position of 5'arm mature miRNA  is  41 : CUAGGAUUGUUGGAGGAGUCAG
+the 3'end position of 5'arm mature miRNA  is  39 : GUCUAGGAUUGUUGGAGGAGUC
+the 3'end position of 5'arm mature miRNA  is  38 : GGUCUAGGAUUGUUGGAGGAGU
+the 3'end position of 5'arm mature miRNA  is  37 : UGGUCUAGGAUUGUUGGAGGAG
+>hsa-mir-3129
+the 3'end position of 5'arm mature miRNA  is  37 : UGUAGAGAUUGGUUUGCCUGUU
+the 3'end position of 5'arm mature miRNA  is  34 : UAGUGUAGAGAUUGGUUUGCCU
+the 3'end position of 5'arm mature miRNA  is  27 : UGGGCAGUAGUGUAGAGAUUGG
+the 3'end position of 5'arm mature miRNA  is  26 : UUGGGCAGUAGUGUAGAGAUUG
+the 3'end position of 5'arm mature miRNA  is  23 : UACUUGGGCAGUAGUGUAGAGA
+>hsa-mir-4486
+the 3'end position of 5'arm mature miRNA  is  24 : AUGCUGGGCGAGGCUGGCAUCU
+the 3'end position of 5'arm mature miRNA  is  27 : CUGGGCGAGGCUGGCAUCUAGC
+the 3'end position of 5'arm mature miRNA  is  23 : CAUGCUGGGCGAGGCUGGCAUC
+the 3'end position of 5'arm mature miRNA  is  28 : UGGGCGAGGCUGGCAUCUAGCA
+the 3'end position of 5'arm mature miRNA  is  26 : GCUGGGCGAGGCUGGCAUCUAG
+>hsa-mir-3677
+the 3'end position of 5'arm mature miRNA  is  27 : UGGCCAGAGCCCUGCAGUGCUG
+the 3'end position of 5'arm mature miRNA  is  22 : GGCAGUGGCCAGAGCCCUGCAG
+the 3'end position of 5'arm mature miRNA  is  23 : GCAGUGGCCAGAGCCCUGCAGU
+the 3'end position of 5'arm mature miRNA  is  26 : GUGGCCAGAGCCCUGCAGUGCU
+the 3'end position of 5'arm mature miRNA  is  28 : GGCCAGAGCCCUGCAGUGCUGG
+>hsa-mir-8080
+the 3'end position of 5'arm mature miRNA  is  44 : UGUCAACGGCUGAGCCCUUUGA
+the 3'end position of 5'arm mature miRNA  is  41 : UGGUGUCAACGGCUGAGCCCUU
+the 3'end position of 5'arm mature miRNA  is  43 : GUGUCAACGGCUGAGCCCUUUG
+the 3'end position of 5'arm mature miRNA  is  42 : GGUGUCAACGGCUGAGCCCUUU
+the 3'end position of 5'arm mature miRNA  is  29 : UAAGAAGGACACUGGUGUCAAC
+>hsa-mir-3183
+the 3'end position of 5'arm mature miRNA  is  38 : UCGGAGUCGCUCGGAGCAGUCA
+the 3'end position of 5'arm mature miRNA  is  36 : UCUCGGAGUCGCUCGGAGCAGU
+the 3'end position of 5'arm mature miRNA  is  34 : UCUCUCGGAGUCGCUCGGAGCA
+the 3'end position of 5'arm mature miRNA  is  30 : UGCCUCUCUCGGAGUCGCUCGG
+the 3'end position of 5'arm mature miRNA  is  40 : GGAGUCGCUCGGAGCAGUCACG
+>hsa-mir-211
+the 3'end position of 5'arm mature miRNA  is  51 : CUUUGUCAUCCUUCGCCUAGGG
+the 3'end position of 5'arm mature miRNA  is  50 : CCUUUGUCAUCCUUCGCCUAGG
+the 3'end position of 5'arm mature miRNA  is  49 : CCCUUUGUCAUCCUUCGCCUAG
+the 3'end position of 5'arm mature miRNA  is  46 : CUUCCCUUUGUCAUCCUUCGCC
+the 3'end position of 5'arm mature miRNA  is  52 : UUUGUCAUCCUUCGCCUAGGGC
+>hsa-mir-5691
+the 3'end position of 5'arm mature miRNA  is  31 : UGCUCUGAGCUCCGAGAAAGCU
+the 3'end position of 5'arm mature miRNA  is  30 : UUGCUCUGAGCUCCGAGAAAGC
+the 3'end position of 5'arm mature miRNA  is  32 : GCUCUGAGCUCCGAGAAAGCUG
+the 3'end position of 5'arm mature miRNA  is  28 : GCUUGCUCUGAGCUCCGAGAAA
+the 3'end position of 5'arm mature miRNA  is  23 : GACAAGCUUGCUCUGAGCUCCG
+>hsa-mir-548e
+the 3'end position of 5'arm mature miRNA  is  40 : AGCAAUCGCGGUUUUUGCUAUU
+the 3'end position of 5'arm mature miRNA  is  39 : AAGCAAUCGCGGUUUUUGCUAU
+the 3'end position of 5'arm mature miRNA  is  38 : AAAGCAAUCGCGGUUUUUGCUA
+the 3'end position of 5'arm mature miRNA  is  37 : AAAAGCAAUCGCGGUUUUUGCU
+the 3'end position of 5'arm mature miRNA  is  35 : ACAAAAGCAAUCGCGGUUUUUG
+>hsa-mir-4426
+the 3'end position of 5'arm mature miRNA  is  22 : AGUUGGAAGAUGGACGUACUUU
+the 3'end position of 5'arm mature miRNA  is  23 : GUUGGAAGAUGGACGUACUUUG
+>hsa-mir-4707
+the 3'end position of 5'arm mature miRNA  is  24 : UUCCGGAGCCCCGGCGCGGGCG
+the 3'end position of 5'arm mature miRNA  is  25 : UCCGGAGCCCCGGCGCGGGCGG
+the 3'end position of 5'arm mature miRNA  is  22 : GGUUCCGGAGCCCCGGCGCGGG
+the 3'end position of 5'arm mature miRNA  is  23 : GUUCCGGAGCCCCGGCGCGGGC
+the 3'end position of 5'arm mature miRNA  is  39 : GCGGGCGGGUUCUGGGGUGUAG
+>hsa-mir-8086
+the 3'end position of 5'arm mature miRNA  is  22 : UCCACUAGUCUGCUAGUCUGGA
+the 3'end position of 5'arm mature miRNA  is  27 : UAGUCUGCUAGUCUGGACUGAU
+the 3'end position of 5'arm mature miRNA  is  30 : UCUGCUAGUCUGGACUGAUAUG
+the 3'end position of 5'arm mature miRNA  is  25 : ACUAGUCUGCUAGUCUGGACUG
+the 3'end position of 5'arm mature miRNA  is  32 : UGCUAGUCUGGACUGAUAUGGU
+>hsa-mir-654
+the 3'end position of 5'arm mature miRNA  is  40 : UGGGCCGCAGAACAUGUGCUGA
+the 3'end position of 5'arm mature miRNA  is  37 : UGGUGGGCCGCAGAACAUGUGC
+the 3'end position of 5'arm mature miRNA  is  41 : GGGCCGCAGAACAUGUGCUGAG
+the 3'end position of 5'arm mature miRNA  is  29 : UGGAAAGAUGGUGGGCCGCAGA
+the 3'end position of 5'arm mature miRNA  is  39 : GUGGGCCGCAGAACAUGUGCUG
+>hsa-mir-4529
+the 3'end position of 5'arm mature miRNA  is  29 : GCCAUCAGCAGUCCAAUGAAGA
+the 3'end position of 5'arm mature miRNA  is  28 : GGCCAUCAGCAGUCCAAUGAAG
+the 3'end position of 5'arm mature miRNA  is  23 : UGACAGGCCAUCAGCAGUCCAA
+the 3'end position of 5'arm mature miRNA  is  31 : CAUCAGCAGUCCAAUGAAGACA
+the 3'end position of 5'arm mature miRNA  is  30 : CCAUCAGCAGUCCAAUGAAGAC
+>hsa-mir-6068
+the 3'end position of 5'arm mature miRNA  is  24 : UGCGAGUCUCCGGCGGUGGCUU
+the 3'end position of 5'arm mature miRNA  is  25 : GCGAGUCUCCGGCGGUGGCUUG
+the 3'end position of 5'arm mature miRNA  is  27 : GAGUCUCCGGCGGUGGCUUGUG
+the 3'end position of 5'arm mature miRNA  is  29 : GUCUCCGGCGGUGGCUUGUGGC
+the 3'end position of 5'arm mature miRNA  is  22 : CCUGCGAGUCUCCGGCGGUGGC
+>hsa-mir-629
+the 3'end position of 5'arm mature miRNA  is  46 : GUUUACGUUGGGAGAACUUUUA
+the 3'end position of 5'arm mature miRNA  is  49 : UACGUUGGGAGAACUUUUACGG
+the 3'end position of 5'arm mature miRNA  is  45 : GGUUUACGUUGGGAGAACUUUU
+the 3'end position of 5'arm mature miRNA  is  48 : UUACGUUGGGAGAACUUUUACG
+the 3'end position of 5'arm mature miRNA  is  47 : UUUACGUUGGGAGAACUUUUAC
+>hsa-mir-140
+the 3'end position of 5'arm mature miRNA  is  45 : AGUGGUUUUACCCUAUGGUAGG
+the 3'end position of 5'arm mature miRNA  is  50 : UUUUACCCUAUGGUAGGUUACG
+the 3'end position of 5'arm mature miRNA  is  49 : GUUUUACCCUAUGGUAGGUUAC
+the 3'end position of 5'arm mature miRNA  is  48 : GGUUUUACCCUAUGGUAGGUUA
+the 3'end position of 5'arm mature miRNA  is  47 : UGGUUUUACCCUAUGGUAGGUU
+>hsa-mir-335
+the 3'end position of 5'arm mature miRNA  is  40 : AGAGCAAUAACGAAAAAUGUUU
+the 3'end position of 5'arm mature miRNA  is  38 : CAAGAGCAAUAACGAAAAAUGU
+the 3'end position of 5'arm mature miRNA  is  39 : AAGAGCAAUAACGAAAAAUGUU
+the 3'end position of 5'arm mature miRNA  is  36 : GUCAAGAGCAAUAACGAAAAAU
+the 3'end position of 5'arm mature miRNA  is  37 : UCAAGAGCAAUAACGAAAAAUG
+>hsa-mir-1911
+the 3'end position of 5'arm mature miRNA  is  38 : ACCGCCAUGUCUGUUGGGCAUC
+the 3'end position of 5'arm mature miRNA  is  35 : AGUACCGCCAUGUCUGUUGGGC
+the 3'end position of 5'arm mature miRNA  is  36 : GUACCGCCAUGUCUGUUGGGCA
+the 3'end position of 5'arm mature miRNA  is  37 : UACCGCCAUGUCUGUUGGGCAU
+the 3'end position of 5'arm mature miRNA  is  34 : GAGUACCGCCAUGUCUGUUGGG
+>hsa-mir-3064
+the 3'end position of 5'arm mature miRNA  is  30 : UGUUGUGGUGUGCAAAACUCCG
+the 3'end position of 5'arm mature miRNA  is  26 : UGGCUGUUGUGGUGUGCAAAAC
+the 3'end position of 5'arm mature miRNA  is  24 : UCUGGCUGUUGUGGUGUGCAAA
+the 3'end position of 5'arm mature miRNA  is  31 : GUUGUGGUGUGCAAAACUCCGU
+the 3'end position of 5'arm mature miRNA  is  28 : GCUGUUGUGGUGUGCAAAACUC
+>hsa-mir-608
+the 3'end position of 5'arm mature miRNA  is  40 : GGUGGUGUUGGGACAGCUCCGU
+the 3'end position of 5'arm mature miRNA  is  31 : UGGGCCAGGGGUGGUGUUGGGA
+the 3'end position of 5'arm mature miRNA  is  39 : GGGUGGUGUUGGGACAGCUCCG
+the 3'end position of 5'arm mature miRNA  is  38 : GGGGUGGUGUUGGGACAGCUCC
+the 3'end position of 5'arm mature miRNA  is  34 : GCCAGGGGUGGUGUUGGGACAG
+>hsa-mir-154
+the 3'end position of 5'arm mature miRNA  is  37 : AGGUUAUCCGUGUUGCCUUCGC
+the 3'end position of 5'arm mature miRNA  is  35 : AUAGGUUAUCCGUGUUGCCUUC
+the 3'end position of 5'arm mature miRNA  is  33 : AGAUAGGUUAUCCGUGUUGCCU
+the 3'end position of 5'arm mature miRNA  is  32 : AAGAUAGGUUAUCCGUGUUGCC
+the 3'end position of 5'arm mature miRNA  is  27 : ACUUGAAGAUAGGUUAUCCGUG
+>hsa-mir-3169
+the 3'end position of 5'arm mature miRNA  is  33 : UAGGACUGUGCUUGGCACAUAG
+the 3'end position of 5'arm mature miRNA  is  25 : UGAAAACAUAGGACUGUGCUUG
+the 3'end position of 5'arm mature miRNA  is  23 : UGUGAAAACAUAGGACUGUGCU
+the 3'end position of 5'arm mature miRNA  is  36 : GACUGUGCUUGGCACAUAGCAC
+the 3'end position of 5'arm mature miRNA  is  35 : GGACUGUGCUUGGCACAUAGCA
+>hsa-mir-4524b
+the 3'end position of 5'arm mature miRNA  is  55 : AGCAUAAGCCUGUCUCAAAAUA
+the 3'end position of 5'arm mature miRNA  is  54 : CAGCAUAAGCCUGUCUCAAAAU
+the 3'end position of 5'arm mature miRNA  is  52 : AGCAGCAUAAGCCUGUCUCAAA
+the 3'end position of 5'arm mature miRNA  is  53 : GCAGCAUAAGCCUGUCUCAAAA
+the 3'end position of 5'arm mature miRNA  is  50 : AUAGCAGCAUAAGCCUGUCUCA
+>hsa-mir-18a
+the 3'end position of 5'arm mature miRNA  is  22 : UGUUCUAAGGUGCAUCUAGUGC
+the 3'end position of 5'arm mature miRNA  is  24 : UUCUAAGGUGCAUCUAGUGCAG
+the 3'end position of 5'arm mature miRNA  is  25 : UCUAAGGUGCAUCUAGUGCAGA
+the 3'end position of 5'arm mature miRNA  is  27 : UAAGGUGCAUCUAGUGCAGAUA
+the 3'end position of 5'arm mature miRNA  is  32 : UGCAUCUAGUGCAGAUAGUGAA
+>hsa-mir-6500
+the 3'end position of 5'arm mature miRNA  is  43 : UCCACUCCAGGUGUCCUUUCUU
+the 3'end position of 5'arm mature miRNA  is  41 : UAUCCACUCCAGGUGUCCUUUC
+the 3'end position of 5'arm mature miRNA  is  24 : UGCCUGCAGAAAGGAGCUAUCC
+the 3'end position of 5'arm mature miRNA  is  28 : UGCAGAAAGGAGCUAUCCACUC
+the 3'end position of 5'arm mature miRNA  is  25 : GCCUGCAGAAAGGAGCUAUCCA
+>hsa-mir-2116
+the 3'end position of 5'arm mature miRNA  is  32 : AGGGGUUCUUAGCAUAGGAGGU
+the 3'end position of 5'arm mature miRNA  is  27 : AGGCUAGGGGUUCUUAGCAUAG
+the 3'end position of 5'arm mature miRNA  is  23 : ACCUAGGCUAGGGGUUCUUAGC
+the 3'end position of 5'arm mature miRNA  is  31 : UAGGGGUUCUUAGCAUAGGAGG
+the 3'end position of 5'arm mature miRNA  is  26 : UAGGCUAGGGGUUCUUAGCAUA
+>hsa-mir-3927
+the 3'end position of 5'arm mature miRNA  is  34 : UCACAUAUCUGCCUGUCCUAUG
+the 3'end position of 5'arm mature miRNA  is  32 : UAUCACAUAUCUGCCUGUCCUA
+the 3'end position of 5'arm mature miRNA  is  28 : UGCCUAUCACAUAUCUGCCUGU
+the 3'end position of 5'arm mature miRNA  is  22 : UGCCAAUGCCUAUCACAUAUCU
+the 3'end position of 5'arm mature miRNA  is  29 : GCCUAUCACAUAUCUGCCUGUC
+>hsa-mir-4766
+the 3'end position of 5'arm mature miRNA  is  33 : UCUGAAAGAGCAGUUGGUGUUU
+the 3'end position of 5'arm mature miRNA  is  32 : UUCUGAAAGAGCAGUUGGUGUU
+the 3'end position of 5'arm mature miRNA  is  29 : UCCUUCUGAAAGAGCAGUUGGU
+the 3'end position of 5'arm mature miRNA  is  23 : UGAAGCUCCUUCUGAAAGAGCA
+the 3'end position of 5'arm mature miRNA  is  27 : GCUCCUUCUGAAAGAGCAGUUG
+>hsa-mir-4289
+the 3'end position of 5'arm mature miRNA  is  25 : UGGGAGGGCAUUGUGCAGGGCU
+the 3'end position of 5'arm mature miRNA  is  24 : UUGGGAGGGCAUUGUGCAGGGC
+the 3'end position of 5'arm mature miRNA  is  32 : GCAUUGUGCAGGGCUAUCAGGC
+the 3'end position of 5'arm mature miRNA  is  31 : GGCAUUGUGCAGGGCUAUCAGG
+the 3'end position of 5'arm mature miRNA  is  30 : GGGCAUUGUGCAGGGCUAUCAG
+>hsa-mir-3144
+the 3'end position of 5'arm mature miRNA  is  32 : UAAGGGGACCAAAGAGAUAUAU
+the 3'end position of 5'arm mature miRNA  is  31 : UUAAGGGGACCAAAGAGAUAUA
+the 3'end position of 5'arm mature miRNA  is  30 : UUUAAGGGGACCAAAGAGAUAU
+the 3'end position of 5'arm mature miRNA  is  25 : UACACUUUAAGGGGACCAAAGA
+the 3'end position of 5'arm mature miRNA  is  29 : CUUUAAGGGGACCAAAGAGAUA
+>hsa-mir-4708
+the 3'end position of 5'arm mature miRNA  is  24 : UAGGAGAGAGAUGCCGCCUUGC
+the 3'end position of 5'arm mature miRNA  is  23 : UUAGGAGAGAGAUGCCGCCUUG
+the 3'end position of 5'arm mature miRNA  is  22 : UUUAGGAGAGAGAUGCCGCCUU
+the 3'end position of 5'arm mature miRNA  is  29 : GAGAGAUGCCGCCUUGCUCCUU
+the 3'end position of 5'arm mature miRNA  is  28 : AGAGAGAUGCCGCCUUGCUCCU
+>hsa-mir-4634
+the 3'end position of 5'arm mature miRNA  is  23 : GACAAGGGCGGCGCGACCGGCC
+the 3'end position of 5'arm mature miRNA  is  22 : GGACAAGGGCGGCGCGACCGGC
+the 3'end position of 5'arm mature miRNA  is  27 : AGGGCGGCGCGACCGGCCCGGG
+the 3'end position of 5'arm mature miRNA  is  26 : AAGGGCGGCGCGACCGGCCCGG
+the 3'end position of 5'arm mature miRNA  is  25 : CAAGGGCGGCGCGACCGGCCCG
+>hsa-mir-3650
+the 3'end position of 5'arm mature miRNA  is  28 : UGUGUCUGUAGAGUCCUGACUG
+the 3'end position of 5'arm mature miRNA  is  22 : UCAAGGUGUGUCUGUAGAGUCC
+the 3'end position of 5'arm mature miRNA  is  27 : GUGUGUCUGUAGAGUCCUGACU
+the 3'end position of 5'arm mature miRNA  is  26 : GGUGUGUCUGUAGAGUCCUGAC
+the 3'end position of 5'arm mature miRNA  is  24 : AAGGUGUGUCUGUAGAGUCCUG
+>hsa-mir-3180-2
+the 3'end position of 5'arm mature miRNA  is  42 : ACGCUCCGCCCCACGUCGCAUG
+the 3'end position of 5'arm mature miRNA  is  40 : AGACGCUCCGCCCCACGUCGCA
+the 3'end position of 5'arm mature miRNA  is  25 : ACGGGCGGAGCUUCCAGACGCU
+the 3'end position of 5'arm mature miRNA  is  33 : AGCUUCCAGACGCUCCGCCCCA
+the 3'end position of 5'arm mature miRNA  is  48 : CGCCCCACGUCGCAUGCGCCCC
+>hsa-mir-4650-1
+the 3'end position of 5'arm mature miRNA  is  34 : UAUCAGGCCUCUUUCUACCUUC
+the 3'end position of 5'arm mature miRNA  is  33 : UUAUCAGGCCUCUUUCUACCUU
+the 3'end position of 5'arm mature miRNA  is  27 : UAGAGAUUAUCAGGCCUCUUUC
+the 3'end position of 5'arm mature miRNA  is  25 : UGUAGAGAUUAUCAGGCCUCUU
+the 3'end position of 5'arm mature miRNA  is  23 : UCUGUAGAGAUUAUCAGGCCUC
+>hsa-mir-4713
+the 3'end position of 5'arm mature miRNA  is  33 : UCUCCCACUACCAGGCUCCCAU
+the 3'end position of 5'arm mature miRNA  is  32 : UUCUCCCACUACCAGGCUCCCA
+the 3'end position of 5'arm mature miRNA  is  31 : UUUCUCCCACUACCAGGCUCCC
+the 3'end position of 5'arm mature miRNA  is  30 : UUUUCUCCCACUACCAGGCUCC
+the 3'end position of 5'arm mature miRNA  is  29 : UUUUUCUCCCACUACCAGGCUC
+>hsa-mir-3661
+the 3'end position of 5'arm mature miRNA  is  44 : ACCUGGGACUCGGACAGCUGCU
+the 3'end position of 5'arm mature miRNA  is  46 : CUGGGACUCGGACAGCUGCUUG
+the 3'end position of 5'arm mature miRNA  is  45 : CCUGGGACUCGGACAGCUGCUU
+the 3'end position of 5'arm mature miRNA  is  35 : AGGCUCUUGACCUGGGACUCGG
+the 3'end position of 5'arm mature miRNA  is  40 : CUUGACCUGGGACUCGGACAGC
+>hsa-mir-6507
+the 3'end position of 5'arm mature miRNA  is  33 : UAGGAGGGACUUUGUAUUGUGG
+the 3'end position of 5'arm mature miRNA  is  30 : GAAUAGGAGGGACUUUGUAUUG
+the 3'end position of 5'arm mature miRNA  is  27 : GAAGAAUAGGAGGGACUUUGUA
+the 3'end position of 5'arm mature miRNA  is  26 : GGAAGAAUAGGAGGGACUUUGU
+the 3'end position of 5'arm mature miRNA  is  25 : GGGAAGAAUAGGAGGGACUUUG
+>hsa-mir-1294
+the 3'end position of 5'arm mature miRNA  is  74 : AGGUUGGCAUUGUUGUCUGGCA
+the 3'end position of 5'arm mature miRNA  is  65 : AGUCCUGUGAGGUUGGCAUUGU
+the 3'end position of 5'arm mature miRNA  is  69 : CUGUGAGGUUGGCAUUGUUGUC
+the 3'end position of 5'arm mature miRNA  is  68 : CCUGUGAGGUUGGCAUUGUUGU
+the 3'end position of 5'arm mature miRNA  is  61 : ACCGAGUCCUGUGAGGUUGGCA
+>hsa-mir-4523
+the 3'end position of 5'arm mature miRNA  is  29 : ACCGAGAGGGCCUCGGCUGUGU
+the 3'end position of 5'arm mature miRNA  is  31 : CGAGAGGGCCUCGGCUGUGUGA
+the 3'end position of 5'arm mature miRNA  is  30 : CCGAGAGGGCCUCGGCUGUGUG
+the 3'end position of 5'arm mature miRNA  is  23 : CGGGGGACCGAGAGGGCCUCGG
+the 3'end position of 5'arm mature miRNA  is  28 : GACCGAGAGGGCCUCGGCUGUG
+>hsa-mir-769
+the 3'end position of 5'arm mature miRNA  is  55 : ACCUCUGGGUUCUGAGCUGUGA
+the 3'end position of 5'arm mature miRNA  is  53 : AGACCUCUGGGUUCUGAGCUGU
+the 3'end position of 5'arm mature miRNA  is  54 : GACCUCUGGGUUCUGAGCUGUG
+the 3'end position of 5'arm mature miRNA  is  51 : UGAGACCUCUGGGUUCUGAGCU
+the 3'end position of 5'arm mature miRNA  is  52 : GAGACCUCUGGGUUCUGAGCUG
+>hsa-mir-6506
+the 3'end position of 5'arm mature miRNA  is  29 : AUGUCACUGAAUAUGGUGUUUG
+the 3'end position of 5'arm mature miRNA  is  23 : ACUGGGAUGUCACUGAAUAUGG
+the 3'end position of 5'arm mature miRNA  is  28 : GAUGUCACUGAAUAUGGUGUUU
+the 3'end position of 5'arm mature miRNA  is  24 : CUGGGAUGUCACUGAAUAUGGU
+the 3'end position of 5'arm mature miRNA  is  27 : GGAUGUCACUGAAUAUGGUGUU
+>hsa-mir-4488
+the 3'end position of 5'arm mature miRNA  is  24 : UAGGGGGCGGGCUCCGGCGCUG
+the 3'end position of 5'arm mature miRNA  is  25 : AGGGGGCGGGCUCCGGCGCUGG
+the 3'end position of 5'arm mature miRNA  is  30 : GCGGGCUCCGGCGCUGGGACCC
+the 3'end position of 5'arm mature miRNA  is  29 : GGCGGGCUCCGGCGCUGGGACC
+the 3'end position of 5'arm mature miRNA  is  28 : GGGCGGGCUCCGGCGCUGGGAC
+>hsa-mir-3150a
+the 3'end position of 5'arm mature miRNA  is  38 : UCGACGAUCUCCUCAGCACCUG
+the 3'end position of 5'arm mature miRNA  is  31 : GCCAACCUCGACGAUCUCCUCA
+the 3'end position of 5'arm mature miRNA  is  30 : GGCCAACCUCGACGAUCUCCUC
+the 3'end position of 5'arm mature miRNA  is  27 : GCAGGCCAACCUCGACGAUCUC
+the 3'end position of 5'arm mature miRNA  is  24 : GAAGCAGGCCAACCUCGACGAU
+>hsa-mir-1185-1
+the 3'end position of 5'arm mature miRNA  is  31 : UGAAGAGAGGAUACCCUUUGUA
+the 3'end position of 5'arm mature miRNA  is  30 : UUGAAGAGAGGAUACCCUUUGU
+the 3'end position of 5'arm mature miRNA  is  27 : UACUUGAAGAGAGGAUACCCUU
+the 3'end position of 5'arm mature miRNA  is  39 : GGAUACCCUUUGUAUGUUCACU
+the 3'end position of 5'arm mature miRNA  is  37 : GAGGAUACCCUUUGUAUGUUCA
+>hsa-mir-6512
+the 3'end position of 5'arm mature miRNA  is  34 : AUUAGAAGAGCUGGAAGAAGGC
+the 3'end position of 5'arm mature miRNA  is  31 : ACCAUUAGAAGAGCUGGAAGAA
+the 3'end position of 5'arm mature miRNA  is  23 : AUGCUCUUACCAUUAGAAGAGC
+the 3'end position of 5'arm mature miRNA  is  33 : CAUUAGAAGAGCUGGAAGAAGG
+the 3'end position of 5'arm mature miRNA  is  32 : CCAUUAGAAGAGCUGGAAGAAG
+>hsa-mir-3974
+the 3'end position of 5'arm mature miRNA  is  43 : AAGGUUAAUGCACCCAUAUUUU
+the 3'end position of 5'arm mature miRNA  is  38 : AUUGUAAGGUUAAUGCACCCAU
+the 3'end position of 5'arm mature miRNA  is  42 : UAAGGUUAAUGCACCCAUAUUU
+the 3'end position of 5'arm mature miRNA  is  41 : GUAAGGUUAAUGCACCCAUAUU
+the 3'end position of 5'arm mature miRNA  is  40 : UGUAAGGUUAAUGCACCCAUAU
+>hsa-mir-1229
+the 3'end position of 5'arm mature miRNA  is  32 : UUUGGGGGAGAGCGUGGGCUGG
+the 3'end position of 5'arm mature miRNA  is  31 : GUUUGGGGGAGAGCGUGGGCUG
+the 3'end position of 5'arm mature miRNA  is  30 : GGUUUGGGGGAGAGCGUGGGCU
+the 3'end position of 5'arm mature miRNA  is  27 : UAGGGUUUGGGGGAGAGCGUGG
+the 3'end position of 5'arm mature miRNA  is  29 : GGGUUUGGGGGAGAGCGUGGGC
+>hsa-mir-1255b-1
+the 3'end position of 5'arm mature miRNA  is  22 : UACGGAUGAGCAAAGAAAGUGG
+the 3'end position of 5'arm mature miRNA  is  26 : GAUGAGCAAAGAAAGUGGUUUC
+the 3'end position of 5'arm mature miRNA  is  25 : GGAUGAGCAAAGAAAGUGGUUU
+the 3'end position of 5'arm mature miRNA  is  24 : CGGAUGAGCAAAGAAAGUGGUU
+the 3'end position of 5'arm mature miRNA  is  27 : AUGAGCAAAGAAAGUGGUUUCU
+>hsa-mir-3143
+the 3'end position of 5'arm mature miRNA  is  22 : UAGAUAACAUUGUAAAGCGCUU
+the 3'end position of 5'arm mature miRNA  is  32 : UGUAAAGCGCUUCUUUCGCGGU
+the 3'end position of 5'arm mature miRNA  is  31 : UUGUAAAGCGCUUCUUUCGCGG
+the 3'end position of 5'arm mature miRNA  is  26 : UAACAUUGUAAAGCGCUUCUUU
+the 3'end position of 5'arm mature miRNA  is  24 : GAUAACAUUGUAAAGCGCUUCU
+>hsa-mir-126
+the 3'end position of 5'arm mature miRNA  is  41 : UUACUUUUGGUACGCGCUGUGA
+the 3'end position of 5'arm mature miRNA  is  39 : UAUUACUUUUGGUACGCGCUGU
+the 3'end position of 5'arm mature miRNA  is  38 : UUAUUACUUUUGGUACGCGCUG
+the 3'end position of 5'arm mature miRNA  is  25 : UGGCGACGGGACAUUAUUACUU
+the 3'end position of 5'arm mature miRNA  is  34 : GACAUUAUUACUUUUGGUACGC
+>hsa-mir-6511a-2
+the 3'end position of 5'arm mature miRNA  is  27 : AGGCAGAAGUGGGGCUGACAGG
+the 3'end position of 5'arm mature miRNA  is  24 : UGCAGGCAGAAGUGGGGCUGAC
+the 3'end position of 5'arm mature miRNA  is  22 : CCUGCAGGCAGAAGUGGGGCUG
+the 3'end position of 5'arm mature miRNA  is  23 : CUGCAGGCAGAAGUGGGGCUGA
+the 3'end position of 5'arm mature miRNA  is  26 : CAGGCAGAAGUGGGGCUGACAG
+>hsa-mir-514a-1
+the 3'end position of 5'arm mature miRNA  is  46 : UCUGGAGAGUGACAAUCAUGUA
+the 3'end position of 5'arm mature miRNA  is  43 : UACUCUGGAGAGUGACAAUCAU
+the 3'end position of 5'arm mature miRNA  is  38 : UACCCUACUCUGGAGAGUGACA
+the 3'end position of 5'arm mature miRNA  is  35 : UGGUACCCUACUCUGGAGAGUG
+the 3'end position of 5'arm mature miRNA  is  33 : UGUGGUACCCUACUCUGGAGAG
+>hsa-mir-20b
+the 3'end position of 5'arm mature miRNA  is  24 : UACCAAAGUGCUCAUAGUGCAG
+the 3'end position of 5'arm mature miRNA  is  23 : GUACCAAAGUGCUCAUAGUGCA
+the 3'end position of 5'arm mature miRNA  is  31 : GUGCUCAUAGUGCAGGUAGUUU
+the 3'end position of 5'arm mature miRNA  is  22 : AGUACCAAAGUGCUCAUAGUGC
+the 3'end position of 5'arm mature miRNA  is  26 : CCAAAGUGCUCAUAGUGCAGGU
+>hsa-mir-581
+the 3'end position of 5'arm mature miRNA  is  38 : CUUGUGUUCUCUAGAUCAGUGC
+the 3'end position of 5'arm mature miRNA  is  35 : AUUCUUGUGUUCUCUAGAUCAG
+the 3'end position of 5'arm mature miRNA  is  31 : AGGUAUUCUUGUGUUCUCUAGA
+the 3'end position of 5'arm mature miRNA  is  30 : AAGGUAUUCUUGUGUUCUCUAG
+the 3'end position of 5'arm mature miRNA  is  39 : UUGUGUUCUCUAGAUCAGUGCU
+>hsa-mir-4697
+the 3'end position of 5'arm mature miRNA  is  36 : GCGCAGUCACUGACGUGAAGGG
+the 3'end position of 5'arm mature miRNA  is  35 : GGCGCAGUCACUGACGUGAAGG
+the 3'end position of 5'arm mature miRNA  is  34 : GGGCGCAGUCACUGACGUGAAG
+the 3'end position of 5'arm mature miRNA  is  33 : GGGGCGCAGUCACUGACGUGAA
+the 3'end position of 5'arm mature miRNA  is  37 : CGCAGUCACUGACGUGAAGGGA
+>hsa-mir-887
+the 3'end position of 5'arm mature miRNA  is  33 : UGGGAGCCCUGUUAGACUCUGG
+the 3'end position of 5'arm mature miRNA  is  36 : GAGCCCUGUUAGACUCUGGAUU
+the 3'end position of 5'arm mature miRNA  is  32 : UUGGGAGCCCUGUUAGACUCUG
+the 3'end position of 5'arm mature miRNA  is  35 : GGAGCCCUGUUAGACUCUGGAU
+the 3'end position of 5'arm mature miRNA  is  34 : GGGAGCCCUGUUAGACUCUGGA
+>hsa-mir-758
+the 3'end position of 5'arm mature miRNA  is  37 : AUGGUUGACCAGAGAGCACACG
+the 3'end position of 5'arm mature miRNA  is  35 : AGAUGGUUGACCAGAGAGCACA
+the 3'end position of 5'arm mature miRNA  is  32 : AUGAGAUGGUUGACCAGAGAGC
+the 3'end position of 5'arm mature miRNA  is  30 : ACAUGAGAUGGUUGACCAGAGA
+the 3'end position of 5'arm mature miRNA  is  28 : AUACAUGAGAUGGUUGACCAGA
+>hsa-mir-1304
+the 3'end position of 5'arm mature miRNA  is  41 : UUUGAGGCUACAGUGAGAUGUG
+the 3'end position of 5'arm mature miRNA  is  40 : GUUUGAGGCUACAGUGAGAUGU
+the 3'end position of 5'arm mature miRNA  is  39 : GGUUUGAGGCUACAGUGAGAUG
+the 3'end position of 5'arm mature miRNA  is  37 : GCGGUUUGAGGCUACAGUGAGA
+the 3'end position of 5'arm mature miRNA  is  38 : CGGUUUGAGGCUACAGUGAGAU
+>hsa-mir-4264
+the 3'end position of 5'arm mature miRNA  is  27 : UGGAUACUCAGUCAUGGUCAUU
+the 3'end position of 5'arm mature miRNA  is  29 : GAUACUCAGUCAUGGUCAUUGU
+the 3'end position of 5'arm mature miRNA  is  28 : GGAUACUCAGUCAUGGUCAUUG
+the 3'end position of 5'arm mature miRNA  is  25 : GCUGGAUACUCAGUCAUGGUCA
+the 3'end position of 5'arm mature miRNA  is  30 : AUACUCAGUCAUGGUCAUUGUA
+>hsa-mir-1179
+the 3'end position of 5'arm mature miRNA  is  37 : AGCAUUCUUUCAUUGGUUGGUG
+the 3'end position of 5'arm mature miRNA  is  36 : AAGCAUUCUUUCAUUGGUUGGU
+the 3'end position of 5'arm mature miRNA  is  34 : AGAAGCAUUCUUUCAUUGGUUG
+the 3'end position of 5'arm mature miRNA  is  33 : AAGAAGCAUUCUUUCAUUGGUU
+the 3'end position of 5'arm mature miRNA  is  30 : AGGAAGAAGCAUUCUUUCAUUG
+>hsa-mir-2115
+the 3'end position of 5'arm mature miRNA  is  48 : CAUGACUCCUGAUGGAGGAAUC
+the 3'end position of 5'arm mature miRNA  is  47 : CCAUGACUCCUGAUGGAGGAAU
+the 3'end position of 5'arm mature miRNA  is  42 : AGCUUCCAUGACUCCUGAUGGA
+the 3'end position of 5'arm mature miRNA  is  46 : UCCAUGACUCCUGAUGGAGGAA
+the 3'end position of 5'arm mature miRNA  is  45 : UUCCAUGACUCCUGAUGGAGGA
+>hsa-mir-4706
+the 3'end position of 5'arm mature miRNA  is  24 : UACGGGGAGCGGGGAGGAAGUG
+the 3'end position of 5'arm mature miRNA  is  22 : GCUACGGGGAGCGGGGAGGAAG
+the 3'end position of 5'arm mature miRNA  is  27 : GGGGAGCGGGGAGGAAGUGGGC
+the 3'end position of 5'arm mature miRNA  is  28 : GGGAGCGGGGAGGAAGUGGGCG
+the 3'end position of 5'arm mature miRNA  is  29 : GGAGCGGGGAGGAAGUGGGCGC
+>hsa-mir-124-1
+the 3'end position of 5'arm mature miRNA  is  33 : UCCGUGUUCACAGCGGACCUUG
+the 3'end position of 5'arm mature miRNA  is  31 : UCUCCGUGUUCACAGCGGACCU
+the 3'end position of 5'arm mature miRNA  is  29 : UCUCUCCGUGUUCACAGCGGAC
+the 3'end position of 5'arm mature miRNA  is  27 : UCUCUCUCCGUGUUCACAGCGG
+the 3'end position of 5'arm mature miRNA  is  22 : AGGCCUCUCUCUCCGUGUUCAC
+>hsa-mir-4474
+the 3'end position of 5'arm mature miRNA  is  28 : ACCUUGUUAGUCUCAUGAUCAG
+the 3'end position of 5'arm mature miRNA  is  35 : UAGUCUCAUGAUCAGACACAAA
+the 3'end position of 5'arm mature miRNA  is  33 : GUUAGUCUCAUGAUCAGACACA
+the 3'end position of 5'arm mature miRNA  is  30 : CUUGUUAGUCUCAUGAUCAGAC
+the 3'end position of 5'arm mature miRNA  is  34 : UUAGUCUCAUGAUCAGACACAA
+>hsa-mir-5701-1
+the 3'end position of 5'arm mature miRNA  is  37 : UCACGUUCUGAUUGGUUAGCCU
+the 3'end position of 5'arm mature miRNA  is  35 : UGUCACGUUCUGAUUGGUUAGC
+the 3'end position of 5'arm mature miRNA  is  34 : UUGUCACGUUCUGAUUGGUUAG
+the 3'end position of 5'arm mature miRNA  is  32 : UAUUGUCACGUUCUGAUUGGUU
+the 3'end position of 5'arm mature miRNA  is  31 : UUAUUGUCACGUUCUGAUUGGU
+>hsa-mir-577
+the 3'end position of 5'arm mature miRNA  is  36 : GUAGAUAAAAUAUUGGUACCUG
+the 3'end position of 5'arm mature miRNA  is  34 : GAGUAGAUAAAAUAUUGGUACC
+the 3'end position of 5'arm mature miRNA  is  30 : UGAAGAGUAGAUAAAAUAUUGG
+the 3'end position of 5'arm mature miRNA  is  31 : GAAGAGUAGAUAAAAUAUUGGU
+the 3'end position of 5'arm mature miRNA  is  29 : GUGAAGAGUAGAUAAAAUAUUG
+>hsa-mir-3658
+the 3'end position of 5'arm mature miRNA  is  26 : UAAGAAAACACCAUGGAGAUGA
+the 3'end position of 5'arm mature miRNA  is  25 : UUAAGAAAACACCAUGGAGAUG
+the 3'end position of 5'arm mature miRNA  is  24 : UUUAAGAAAACACCAUGGAGAU
+the 3'end position of 5'arm mature miRNA  is  22 : UAUUUAAGAAAACACCAUGGAG
+the 3'end position of 5'arm mature miRNA  is  28 : AGAAAACACCAUGGAGAUGAAA
+>hsa-mir-5187
+the 3'end position of 5'arm mature miRNA  is  38 : AGGGAUUGAAGUGGAGCAGGAA
+the 3'end position of 5'arm mature miRNA  is  35 : AUGAGGGAUUGAAGUGGAGCAG
+the 3'end position of 5'arm mature miRNA  is  27 : AGGGUGGGAUGAGGGAUUGAAG
+the 3'end position of 5'arm mature miRNA  is  26 : AAGGGUGGGAUGAGGGAUUGAA
+the 3'end position of 5'arm mature miRNA  is  23 : ACUAAGGGUGGGAUGAGGGAUU
+>hsa-mir-378d-2
+the 3'end position of 5'arm mature miRNA  is  45 : UGGACUUGGAGUCAGAAAACUU
+the 3'end position of 5'arm mature miRNA  is  25 : UGGUUACAAGGAGAGAACACUG
+the 3'end position of 5'arm mature miRNA  is  28 : UUACAAGGAGAGAACACUGGAC
+the 3'end position of 5'arm mature miRNA  is  29 : UACAAGGAGAGAACACUGGACU
+the 3'end position of 5'arm mature miRNA  is  22 : GAAUGGUUACAAGGAGAGAACA
+>hsa-mir-4704
+the 3'end position of 5'arm mature miRNA  is  29 : UAGACACUAGGCAUGUGAGUGA
+the 3'end position of 5'arm mature miRNA  is  26 : UCCUAGACACUAGGCAUGUGAG
+the 3'end position of 5'arm mature miRNA  is  24 : UAUCCUAGACACUAGGCAUGUG
+the 3'end position of 5'arm mature miRNA  is  23 : UUAUCCUAGACACUAGGCAUGU
+the 3'end position of 5'arm mature miRNA  is  31 : GACACUAGGCAUGUGAGUGAUU
+>hsa-mir-4283-2
+the 3'end position of 5'arm mature miRNA  is  28 : AUCCUGGGGCUCAGCGAGUUUG
+the 3'end position of 5'arm mature miRNA  is  22 : ACUCUGAUCCUGGGGCUCAGCG
+the 3'end position of 5'arm mature miRNA  is  37 : CUCAGCGAGUUUGCAAGGGGUG
+the 3'end position of 5'arm mature miRNA  is  38 : UCAGCGAGUUUGCAAGGGGUGU
+the 3'end position of 5'arm mature miRNA  is  31 : CUGGGGCUCAGCGAGUUUGCAA
+>hsa-mir-2467
+the 3'end position of 5'arm mature miRNA  is  33 : UGAGGCUCUGUUAGCCUUGGCU
+the 3'end position of 5'arm mature miRNA  is  37 : GCUCUGUUAGCCUUGGCUCUGG
+the 3'end position of 5'arm mature miRNA  is  36 : GGCUCUGUUAGCCUUGGCUCUG
+the 3'end position of 5'arm mature miRNA  is  34 : GAGGCUCUGUUAGCCUUGGCUC
+the 3'end position of 5'arm mature miRNA  is  35 : AGGCUCUGUUAGCCUUGGCUCU
+>hsa-mir-3690-1
+the 3'end position of 5'arm mature miRNA  is  34 : UGGACCCAGCGUAGACAAAGAG
+the 3'end position of 5'arm mature miRNA  is  28 : UCCACCUGGACCCAGCGUAGAC
+the 3'end position of 5'arm mature miRNA  is  26 : UCUCCACCUGGACCCAGCGUAG
+the 3'end position of 5'arm mature miRNA  is  33 : CUGGACCCAGCGUAGACAAAGA
+the 3'end position of 5'arm mature miRNA  is  22 : CCCAUCUCCACCUGGACCCAGC
+>hsa-mir-4647
+the 3'end position of 5'arm mature miRNA  is  37 : UGGUGCUGUGCUGAGGAAAGGG
+the 3'end position of 5'arm mature miRNA  is  31 : UGAAGAUGGUGCUGUGCUGAGG
+the 3'end position of 5'arm mature miRNA  is  25 : GGAGGGUGAAGAUGGUGCUGUG
+the 3'end position of 5'arm mature miRNA  is  26 : GAGGGUGAAGAUGGUGCUGUGC
+the 3'end position of 5'arm mature miRNA  is  38 : GGUGCUGUGCUGAGGAAAGGGG
+>hsa-mir-6511a-4
+the 3'end position of 5'arm mature miRNA  is  27 : AGGCAGAAGUGGGGCUGACAGG
+the 3'end position of 5'arm mature miRNA  is  24 : UGCAGGCAGAAGUGGGGCUGAC
+the 3'end position of 5'arm mature miRNA  is  22 : CCUGCAGGCAGAAGUGGGGCUG
+the 3'end position of 5'arm mature miRNA  is  23 : CUGCAGGCAGAAGUGGGGCUGA
+the 3'end position of 5'arm mature miRNA  is  26 : CAGGCAGAAGUGGGGCUGACAG
+>hsa-mir-4516
+the 3'end position of 5'arm mature miRNA  is  39 : CAGGGAGGGCAGGGCAGGCUCU
+the 3'end position of 5'arm mature miRNA  is  33 : UCGGGGCAGGGAGGGCAGGGCA
+the 3'end position of 5'arm mature miRNA  is  38 : GCAGGGAGGGCAGGGCAGGCUC
+the 3'end position of 5'arm mature miRNA  is  29 : AGGGUCGGGGCAGGGAGGGCAG
+the 3'end position of 5'arm mature miRNA  is  37 : GGCAGGGAGGGCAGGGCAGGCU
+>hsa-mir-4715
+the 3'end position of 5'arm mature miRNA  is  28 : UGAAAGUUGGCUGCAGUUAAGG
+the 3'end position of 5'arm mature miRNA  is  35 : UGGCUGCAGUUAAGGUGGCUAA
+the 3'end position of 5'arm mature miRNA  is  34 : UUGGCUGCAGUUAAGGUGGCUA
+the 3'end position of 5'arm mature miRNA  is  22 : GGGGAAUGAAAGUUGGCUGCAG
+the 3'end position of 5'arm mature miRNA  is  23 : GGGAAUGAAAGUUGGCUGCAGU
+>hsa-mir-647
+the 3'end position of 5'arm mature miRNA  is  49 : ACUUCCUUCAGCCCCAGGAAGC
+the 3'end position of 5'arm mature miRNA  is  48 : CACUUCCUUCAGCCCCAGGAAG
+the 3'end position of 5'arm mature miRNA  is  46 : CUCACUUCCUUCAGCCCCAGGA
+the 3'end position of 5'arm mature miRNA  is  45 : ACUCACUUCCUUCAGCCCCAGG
+the 3'end position of 5'arm mature miRNA  is  47 : UCACUUCCUUCAGCCCCAGGAA
+>hsa-mir-99a
+the 3'end position of 5'arm mature miRNA  is  35 : ACCCGUAGAUCCGAUCUUGUGG
+the 3'end position of 5'arm mature miRNA  is  34 : AACCCGUAGAUCCGAUCUUGUG
+the 3'end position of 5'arm mature miRNA  is  33 : AAACCCGUAGAUCCGAUCUUGU
+the 3'end position of 5'arm mature miRNA  is  31 : AUAAACCCGUAGAUCCGAUCUU
+the 3'end position of 5'arm mature miRNA  is  37 : CCGUAGAUCCGAUCUUGUGGUG
+>hsa-mir-6515
+the 3'end position of 5'arm mature miRNA  is  28 : AGGGUGUGGAAGACAUCUGGGC
+the 3'end position of 5'arm mature miRNA  is  23 : AUUGGAGGGUGUGGAAGACAUC
+the 3'end position of 5'arm mature miRNA  is  27 : GAGGGUGUGGAAGACAUCUGGG
+the 3'end position of 5'arm mature miRNA  is  26 : GGAGGGUGUGGAAGACAUCUGG
+the 3'end position of 5'arm mature miRNA  is  22 : CAUUGGAGGGUGUGGAAGACAU
+>hsa-mir-486
+the 3'end position of 5'arm mature miRNA  is  30 : UACUGAGCUGCCCCGAGGCCCU
+the 3'end position of 5'arm mature miRNA  is  28 : UGUACUGAGCUGCCCCGAGGCC
+the 3'end position of 5'arm mature miRNA  is  25 : UCCUGUACUGAGCUGCCCCGAG
+the 3'end position of 5'arm mature miRNA  is  22 : GCAUCCUGUACUGAGCUGCCCC
+the 3'end position of 5'arm mature miRNA  is  29 : GUACUGAGCUGCCCCGAGGCCC
+>hsa-mir-4509-3
+the 3'end position of 5'arm mature miRNA  is  39 : ACUAAAGGAUAUAGAAGGUUUU
+the 3'end position of 5'arm mature miRNA  is  38 : AACUAAAGGAUAUAGAAGGUUU
+the 3'end position of 5'arm mature miRNA  is  37 : AAACUAAAGGAUAUAGAAGGUU
+the 3'end position of 5'arm mature miRNA  is  32 : AUCUCAAACUAAAGGAUAUAGA
+the 3'end position of 5'arm mature miRNA  is  36 : CAAACUAAAGGAUAUAGAAGGU
+>hsa-mir-4748
+the 3'end position of 5'arm mature miRNA  is  36 : UUGGGGAGGAUUUGCUGGUGCU
+the 3'end position of 5'arm mature miRNA  is  35 : UUUGGGGAGGAUUUGCUGGUGC
+the 3'end position of 5'arm mature miRNA  is  30 : UGAGGUUUGGGGAGGAUUUGCU
+the 3'end position of 5'arm mature miRNA  is  22 : UGGCUGGCUGAGGUUUGGGGAG
+the 3'end position of 5'arm mature miRNA  is  22 : UGGCUGGCUGAGGUUUGGGGAG
+>hsa-mir-522
+the 3'end position of 5'arm mature miRNA  is  22 : UCUCAGGCUGUGUCCCUCUAGA
+the 3'end position of 5'arm mature miRNA  is  24 : UCAGGCUGUGUCCCUCUAGAGG
+the 3'end position of 5'arm mature miRNA  is  30 : UGUGUCCCUCUAGAGGGAAGCG
+the 3'end position of 5'arm mature miRNA  is  40 : UAGAGGGAAGCGCUUUCUGUUG
+the 3'end position of 5'arm mature miRNA  is  32 : UGUCCCUCUAGAGGGAAGCGCU
+>hsa-mir-4749
+the 3'end position of 5'arm mature miRNA  is  24 : UGCGGGGACAGGCCAGGGCAUC
+the 3'end position of 5'arm mature miRNA  is  31 : ACAGGCCAGGGCAUCUAGGCUG
+the 3'end position of 5'arm mature miRNA  is  25 : GCGGGGACAGGCCAGGGCAUCU
+the 3'end position of 5'arm mature miRNA  is  27 : GGGGACAGGCCAGGGCAUCUAG
+the 3'end position of 5'arm mature miRNA  is  28 : GGGACAGGCCAGGGCAUCUAGG
+>hsa-mir-5698
+the 3'end position of 5'arm mature miRNA  is  31 : UGGGGGAGUGCAGUGAUUGUGG
+the 3'end position of 5'arm mature miRNA  is  25 : UGCACCUGGGGGAGUGCAGUGA
+the 3'end position of 5'arm mature miRNA  is  23 : UGUGCACCUGGGGGAGUGCAGU
+the 3'end position of 5'arm mature miRNA  is  34 : GGGAGUGCAGUGAUUGUGGAAU
+the 3'end position of 5'arm mature miRNA  is  33 : GGGGAGUGCAGUGAUUGUGGAA
+>hsa-mir-548i-4
+the 3'end position of 5'arm mature miRNA  is  32 : AAAAGUAAUUGCGGAUUUUGCC
+the 3'end position of 5'arm mature miRNA  is  31 : CAAAAGUAAUUGCGGAUUUUGC
+the 3'end position of 5'arm mature miRNA  is  22 : AGGUUGGUGCAAAAGUAAUUGC
+the 3'end position of 5'arm mature miRNA  is  30 : GCAAAAGUAAUUGCGGAUUUUG
+the 3'end position of 5'arm mature miRNA  is  28 : GUGCAAAAGUAAUUGCGGAUUU
+>hsa-mir-138-2
+the 3'end position of 5'arm mature miRNA  is  41 : GUGAAUCAGGCCGACGAGCAGC
+the 3'end position of 5'arm mature miRNA  is  40 : UGUGAAUCAGGCCGACGAGCAG
+the 3'end position of 5'arm mature miRNA  is  39 : UUGUGAAUCAGGCCGACGAGCA
+the 3'end position of 5'arm mature miRNA  is  38 : GUUGUGAAUCAGGCCGACGAGC
+the 3'end position of 5'arm mature miRNA  is  31 : AGCUGGUGUUGUGAAUCAGGCC
+>hsa-mir-4467
+the 3'end position of 5'arm mature miRNA  is  27 : GCGGCGGUAGUUAUGGGCUUCU
+the 3'end position of 5'arm mature miRNA  is  26 : GGCGGCGGUAGUUAUGGGCUUC
+the 3'end position of 5'arm mature miRNA  is  24 : GUGGCGGCGGUAGUUAUGGGCU
+the 3'end position of 5'arm mature miRNA  is  23 : GGUGGCGGCGGUAGUUAUGGGC
+the 3'end position of 5'arm mature miRNA  is  25 : UGGCGGCGGUAGUUAUGGGCUU
+>hsa-mir-8084
+the 3'end position of 5'arm mature miRNA  is  42 : UAAAAAAUCAGUAUGGAUUAAA
+the 3'end position of 5'arm mature miRNA  is  38 : UAAGUAAAAAAUCAGUAUGGAU
+the 3'end position of 5'arm mature miRNA  is  35 : UACUAAGUAAAAAAUCAGUAUG
+the 3'end position of 5'arm mature miRNA  is  26 : UAAAUAGAAUACUAAGUAAAAA
+the 3'end position of 5'arm mature miRNA  is  30 : UAGAAUACUAAGUAAAAAAUCA
+>hsa-mir-4722
+the 3'end position of 5'arm mature miRNA  is  28 : AGGGCUGUGCCAGGUUGGCUGG
+the 3'end position of 5'arm mature miRNA  is  25 : AGGAGGGCUGUGCCAGGUUGGC
+the 3'end position of 5'arm mature miRNA  is  24 : CAGGAGGGCUGUGCCAGGUUGG
+the 3'end position of 5'arm mature miRNA  is  27 : GAGGGCUGUGCCAGGUUGGCUG
+the 3'end position of 5'arm mature miRNA  is  26 : GGAGGGCUGUGCCAGGUUGGCU
+>hsa-mir-4695
+the 3'end position of 5'arm mature miRNA  is  36 : UGGGCGAGCAGGCGGGGCAGCC
+the 3'end position of 5'arm mature miRNA  is  37 : GGGCGAGCAGGCGGGGCAGCCC
+the 3'end position of 5'arm mature miRNA  is  35 : GUGGGCGAGCAGGCGGGGCAGC
+the 3'end position of 5'arm mature miRNA  is  34 : AGUGGGCGAGCAGGCGGGGCAG
+the 3'end position of 5'arm mature miRNA  is  32 : GCAGUGGGCGAGCAGGCGGGGC
+>hsa-mir-378a
+the 3'end position of 5'arm mature miRNA  is  22 : AGGGCUCCUGACUCCAGGUCCU
+the 3'end position of 5'arm mature miRNA  is  30 : UGACUCCAGGUCCUGUGUGUUA
+the 3'end position of 5'arm mature miRNA  is  29 : CUGACUCCAGGUCCUGUGUGUU
+the 3'end position of 5'arm mature miRNA  is  28 : CCUGACUCCAGGUCCUGUGUGU
+the 3'end position of 5'arm mature miRNA  is  27 : UCCUGACUCCAGGUCCUGUGUG
+>hsa-mir-3125
+the 3'end position of 5'arm mature miRNA  is  27 : UGGGUAGAGGAAGCUGUGGAGA
+the 3'end position of 5'arm mature miRNA  is  31 : UAGAGGAAGCUGUGGAGAGAAC
+the 3'end position of 5'arm mature miRNA  is  22 : GAGAAUGGGUAGAGGAAGCUGU
+the 3'end position of 5'arm mature miRNA  is  24 : GAAUGGGUAGAGGAAGCUGUGG
+the 3'end position of 5'arm mature miRNA  is  28 : GGGUAGAGGAAGCUGUGGAGAG
+>hsa-mir-610
+the 3'end position of 5'arm mature miRNA  is  44 : AAUGUGUGCUGGGACACAUUUG
+the 3'end position of 5'arm mature miRNA  is  43 : AAAUGUGUGCUGGGACACAUUU
+the 3'end position of 5'arm mature miRNA  is  41 : CUAAAUGUGUGCUGGGACACAU
+the 3'end position of 5'arm mature miRNA  is  39 : AGCUAAAUGUGUGCUGGGACAC
+the 3'end position of 5'arm mature miRNA  is  42 : UAAAUGUGUGCUGGGACACAUU
+>hsa-mir-1306
+the 3'end position of 5'arm mature miRNA  is  41 : UCCCCUGCAAACGUCCAGUGGU
+the 3'end position of 5'arm mature miRNA  is  32 : UCCACCACCUCCCCUGCAAACG
+the 3'end position of 5'arm mature miRNA  is  30 : UCUCCACCACCUCCCCUGCAAA
+the 3'end position of 5'arm mature miRNA  is  23 : UGAGCAGUCUCCACCACCUCCC
+the 3'end position of 5'arm mature miRNA  is  29 : GUCUCCACCACCUCCCCUGCAA
+>hsa-mir-3201
+the 3'end position of 5'arm mature miRNA  is  24 : GAUAUGAAGAAAAAUAAGAGGC
+the 3'end position of 5'arm mature miRNA  is  23 : GGAUAUGAAGAAAAAUAAGAGG
+the 3'end position of 5'arm mature miRNA  is  22 : GGGAUAUGAAGAAAAAUAAGAG
+>hsa-mir-517b
+the 3'end position of 5'arm mature miRNA  is  23 : UGACCCUCUAGAUGGAAGCACU
+the 3'end position of 5'arm mature miRNA  is  24 : GACCCUCUAGAUGGAAGCACUG
+the 3'end position of 5'arm mature miRNA  is  22 : GUGACCCUCUAGAUGGAAGCAC
+the 3'end position of 5'arm mature miRNA  is  26 : CCCUCUAGAUGGAAGCACUGUC
+the 3'end position of 5'arm mature miRNA  is  27 : CCUCUAGAUGGAAGCACUGUCU

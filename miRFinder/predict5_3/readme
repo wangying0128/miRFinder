@@ -1,1 +1,7 @@
-1
+1.data:
+test_1.txt
+
+
+2.Execution steps：
+perl main.pl test_1.txt result1.txt result2.txt
+

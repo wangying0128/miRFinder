@@ -1,0 +1,7 @@
+1.data:
+5_pre_miRNA_snp.txt
+
+
+2.Execution steps：
+perl main.pl 5_pre_miRNA_snp.txt result1.txt result2.txt
+
